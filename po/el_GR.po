@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-03-28 04:05+0000\n"
-"PO-Revision-Date: 2020-04-06 09:27\n"
+"PO-Revision-Date: 2020-04-06 16:51\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Greek\n"
 "Language: el_GR\n"
@@ -1837,7 +1837,7 @@ msgstr "Σκούρο θέμα (απαιτεί επανεκκίνηση)"
 
 #: ../ui/settings.glade:498
 msgid "Default Save Name"
-msgstr ""
+msgstr "Προεπιλεγμένο όνομα αποθήκευσης"
 
 #: ../ui/settings.glade:3955
 msgid "Default Seek Time (in seconds)"
@@ -1873,11 +1873,11 @@ msgstr "Απενεργοποίηση"
 
 #: ../ui/settingsButtonConfig.glade:50
 msgid "Disable drawing for this device"
-msgstr ""
+msgstr "Απενεργοποίηση σχεδιασμού για την συσκευή"
 
 #: ../ui/settings.glade:2308
 msgid "Disable scrollbar fade out"
-msgstr ""
+msgstr "Απενεργοποίηση απόκρυψης μπάρας κύλισης"
 
 #: ../ui/settingsDeviceClassConfig.glade:41
 msgid "Disabled"
@@ -1972,7 +1972,7 @@ msgstr ""
 
 #: ../ui/texdialog.glade:72
 msgid "Enter / edit LaTeX Text"
-msgstr ""
+msgstr "Προσθήκη / επεξεργασία κειμένου LaTeX"
 
 #: ../ui/main.glade:1615
 msgid "Eraser Optio_ns"
@@ -1980,11 +1980,11 @@ msgstr ""
 
 #: ../ui/settingsButtonConfig.glade:129
 msgid "Eraser Type - don't change"
-msgstr ""
+msgstr "Τύπος γόμας - καμία αλλαγή"
 
 #: ../ui/settings.glade:677
 msgid "Experimental Input System"
-msgstr ""
+msgstr "Πειραματικό Σύστημα Εισόδου"
 
 #: ../ui/exportSettings.glade:25
 msgid "Export"
@@ -1996,15 +1996,15 @@ msgstr "Εξαγωγή ως..."
 
 #: ../ui/main.glade:1591 ../ui/main.glade:1796
 msgid "Fi_ll"
-msgstr ""
+msgstr "Γε_μισμα"
 
 #: ../ui/main.glade:1601 ../ui/main.glade:1806
 msgid "Fill transparency"
-msgstr ""
+msgstr "Διαφάνεια γεμίσματος"
 
 #: ../ui/main.glade:2334
 msgid "Find next occurrence of the search string"
-msgstr ""
+msgstr "Βρες την επόμενη εμφάνιση της αναζητούμενης συμβολοσειράς"
 
 #: ../ui/main.glade:2312
 msgid "Find previous occurrence of the search string"
@@ -2064,11 +2064,11 @@ msgstr "Απόκρυψη πλευρικής μπάρας"
 
 #: ../ui/settings.glade:2278
 msgid "Hide the horizontal scrollbar"
-msgstr ""
+msgstr "Απόκρυψη της οριζόντιας μπάρας κύλισης"
 
 #: ../ui/settings.glade:2293
 msgid "Hide the vertical scrollbar"
-msgstr ""
+msgstr "Απόκρυψη της κατακόρυφης μπάρας κύλισης"
 
 #: ../ui/settings.glade:2144
 msgid "Highlight cursor position"
@@ -2094,59 +2094,59 @@ msgstr ""
 
 #: ../ui/settings.glade:3773
 msgid "Input Device"
-msgstr ""
+msgstr "Συσκευή Εισόδου"
 
 #: ../ui/settings.glade:744
 msgid "Input Devices"
-msgstr ""
+msgstr "Συσκευές Εισόδου"
 
 #: ../ui/settings.glade:869
 msgid "Input System"
-msgstr ""
+msgstr "Σύστημα Εισόδου"
 
 #: ../ui/texdialog.glade:9
 msgid "Insert Latex"
-msgstr ""
+msgstr "Εισαγωγή Latex"
 
 #: ../ui/main.glade:2532
 msgid "Insert Page After"
-msgstr ""
+msgstr "Εισαγωγή Σελίδας Μετά"
 
 #: ../ui/main.glade:2524
 msgid "Insert Page Before"
-msgstr ""
+msgstr "Εισαγωγή Σελίδας Πριν"
 
 #: ../ui/main.glade:2115
 msgid "Insert a copy of the current page below"
-msgstr ""
+msgstr "Εισαγωγή αντιγράφου της τρέχουσας σελίδας από κάτω"
 
 #: ../ui/main.glade:512
 msgid "Layout"
-msgstr ""
+msgstr "Διάταξη"
 
 #: ../ui/settings.glade:2249
 msgid "Left / Right-Handed"
-msgstr ""
+msgstr "Αριστερό-/Δεξιόχειρας"
 
 #: ../ui/about.glade:265
 msgid "License"
-msgstr ""
+msgstr "Άδεια"
 
 #: ../ui/settings.glade:594
 msgid "Load / Save"
-msgstr ""
+msgstr "Φόρτωση / Αποθήκευση"
 
 #: ../ui/images.glade:73
 msgid "Load file"
-msgstr ""
+msgstr "Φόρτωση αρχείου"
 
 #: ../ui/toolbarManageDialog.glade:9
 msgid "Manage Toolbar"
-msgstr ""
+msgstr "Διαχείριση Γραμμής Εργαλείων"
 
 #: ../ui/settings.glade:3337
 msgid "Max Length (mm)"
-msgstr ""
+msgstr "Μέγιστο μήκος (mm)"
 
 #: ../ui/settings.glade:827
 msgid "Merge button events with stylus tip events\n"
@@ -2155,47 +2155,47 @@ msgstr ""
 
 #: ../ui/settings.glade:961
 msgid "Middle Mouse Button"
-msgstr ""
+msgstr "Μεσαίο Πλήκτρο Ποντικιού"
 
 #: ../ui/settings.glade:1048 ../ui/settingsDeviceClassConfig.glade:42
 msgid "Mouse"
-msgstr ""
+msgstr "Ποντίκι"
 
 #: ../ui/settings.glade:1017
 msgid "Mouse Buttons"
-msgstr ""
+msgstr "Πλήκτρα Ποντικιού"
 
 #: ../ui/settingsDeviceClassConfig.glade:43
 msgid "Mouse+Keyboard Combo"
-msgstr ""
+msgstr "Ποντίκι+Πληκτρολόγιο combo"
 
 #: ../ui/main.glade:2562
 msgid "Move Down"
-msgstr ""
+msgstr "Μετακίνηση προς τα Κάτω"
 
 #: ../ui/main.glade:2554
 msgid "Move Up"
-msgstr ""
+msgstr "Μετακίνηση προς τα Επάνω"
 
 #: ../ui/main.glade:1066
 msgid "N_ext annotated page"
-msgstr ""
+msgstr "Ε_πόμενη σημειωμένη σελίδα"
 
 #: ../ui/main.glade:1113
 msgid "New Page _After"
-msgstr ""
+msgstr "Νέα σελίδα _Μετά"
 
 #: ../ui/main.glade:1103
 msgid "New Page _Before"
-msgstr ""
+msgstr "Νέα Σελίδα _Πριν"
 
 #: ../ui/main.glade:1124
 msgid "New Page at _End"
-msgstr ""
+msgstr "Νέα Σελίδα στο _Τέλος"
 
 #: ../ui/main.glade:1161
 msgid "New _Layer"
-msgstr ""
+msgstr "Νέα _Στρώση"
 
 #: ../ui/settings.glade:3025
 msgid "Offset first page this many pages when <b>Pair Pages</b> enabled"
@@ -2203,15 +2203,15 @@ msgstr ""
 
 #: ../ui/settings.glade:849
 msgid "Options"
-msgstr ""
+msgstr "Επιλογές"
 
 #: ../ui/settings.glade:3796
 msgid "Output Device"
-msgstr ""
+msgstr "Συσκευή Εξόδου"
 
 #: ../ui/main.glade:1077
 msgid "P_revious annotated Page"
-msgstr ""
+msgstr "Π_ροηγούμενη σημειωμένη Σελίδα"
 
 #: ../ui/pageTemplate.glade:18
 msgid "Page Template"
@@ -2219,7 +2219,7 @@ msgstr ""
 
 #: ../ui/exportSettings.glade:175
 msgid "Pages:"
-msgstr ""
+msgstr "Σελίδες:"
 
 #: ../ui/settings.glade:3058
 msgid "Paired Pages"
@@ -2320,11 +2320,11 @@ msgstr ""
 
 #: ../ui/settings.glade:2328
 msgid "Scrollbars"
-msgstr ""
+msgstr "Μπάρες κύλισης"
 
 #: ../ui/settings.glade:2993
 msgid "Scrolling outside the page"
-msgstr ""
+msgstr "Κύλιση εκτός της σελίδας"
 
 #: ../ui/pageTemplate.glade:174
 msgid "Select Background Color"
@@ -2380,7 +2380,7 @@ msgstr ""
 
 #: ../ui/settings.glade:2227
 msgid "Show vertical scrollbar on the left side"
-msgstr ""
+msgstr "Εμφάνιση κάθετης μπάρας κύλισης στην αριστερή πλευρά"
 
 #: ../ui/settings.glade:3150
 msgid "Snapping"
@@ -2388,7 +2388,7 @@ msgstr ""
 
 #: ../ui/settings.glade:2579
 msgid "Speed for Ctrl + Scroll"
-msgstr ""
+msgstr "Ταχύτητα Ctrl + Scroll"
 
 #: ../ui/settings.glade:2607
 msgid "Speed for a Zoomstep"
