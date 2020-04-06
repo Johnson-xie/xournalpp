@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-03-28 04:05+0000\n"
-"PO-Revision-Date: 2020-04-06 16:50\n"
+"PO-Revision-Date: 2020-04-06 17:05\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -2083,7 +2083,7 @@ msgstr "Tolérance de capture sur la grille"
 
 #: ../ui/main.glade:1451
 msgid "H_and Tool"
-msgstr "Outil"
+msgstr "Outil _main"
 
 #: ../ui/settings.glade:1724
 msgid "Hand Recognition"
@@ -2192,12 +2192,12 @@ msgstr "Longueur maximale (mm)"
 #: ../ui/settings.glade:827
 msgid "Merge button events with stylus tip events\n"
 "<i>(Check this if</i> \"<tt>xsetwacom get *deviceId* TabletPCButton</tt>\" <i>returns</i> \"<tt>on</tt>\"<i>)</i>"
-msgstr "Fusionner les événements avec les événements de pointe du stylet\n"
-"<i>(Vérifiez que</i> \"<tt>xsetwacom reçoit *deviceId* TabletPCButton</tt>\" <i>retourne</i> \"<tt>sur</tt>\"<i>)</i>"
+msgstr "Fusionner les événements de boutons avec les info-bulles de stylet\n"
+"<i>(Cochez cette case si</i> \"<tt>xsetwacom get *deviceId* TabletPCButton</tt>\" <i>return</i> \"<tt>on</tt>\"<i>)</i>"
 
 #: ../ui/settings.glade:961
 msgid "Middle Mouse Button"
-msgstr "Bouton central de la souris"
+msgstr "Bouton de souris du milieu"
 
 #: ../ui/settings.glade:1048 ../ui/settingsDeviceClassConfig.glade:42
 msgid "Mouse"
@@ -2205,7 +2205,7 @@ msgstr "Souris"
 
 #: ../ui/settings.glade:1017
 msgid "Mouse Buttons"
-msgstr "Bouton de souris"
+msgstr "Boutons de Souris"
 
 #: ../ui/settingsDeviceClassConfig.glade:43
 msgid "Mouse+Keyboard Combo"
@@ -2221,7 +2221,7 @@ msgstr "Monter"
 
 #: ../ui/main.glade:1066
 msgid "N_ext annotated page"
-msgstr "Page annotée suivante"
+msgstr "Page annotée N_ext"
 
 #: ../ui/main.glade:1113
 msgid "New Page _After"
@@ -2245,7 +2245,7 @@ msgstr "Décaler la première page de ce nombre de pages quand <b>pages paires</
 
 #: ../ui/settings.glade:849
 msgid "Options"
-msgstr "Paramètres"
+msgstr "Options"
 
 #: ../ui/settings.glade:3796
 msgid "Output Device"
