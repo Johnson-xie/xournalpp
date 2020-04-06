@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-03-28 04:05+0000\n"
-"PO-Revision-Date: 2020-03-28 04:06\n"
+"PO-Revision-Date: 2020-04-06 14:44\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -503,7 +503,7 @@ msgstr "自动保存时出错: {1}"
 
 #: ../src/util/Util.cpp:167
 msgid "Error {1} executing system command: {2}"
-msgstr ""
+msgstr "错误 {1} 执行系统命令: {2}"
 
 #: ../src/util/CrashHandler.cpp:39
 msgid "Error: {1}"
@@ -1345,7 +1345,9 @@ msgstr "您正在使用 {1}/{2} 分支。发送错误报告将直接将您转向
 msgid "Your current document does not contain PDF Page no {1}\n"
 "Would you like to insert this page?\n\n"
 "Tip: You can select Journal → Paper Background → PDF Background to insert a PDF page."
-msgstr ""
+msgstr "您当前的文档不包含 PDF 页面号码 {1}\n"
+"。您想插入此页面吗？\n\n"
+"提示：您可以选择日记 → 纸张背景 -> PDF 背景插入一个PDF页面。"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:358
 msgid "Zoom fit to screen"
@@ -1372,17 +1374,17 @@ msgstr "原始尺寸"
 #: ../src/control/stockdlg/XojOpenDlg.cpp:11
 #: ../src/gui/dialog/PageTemplateDialog.cpp:84
 msgid "_Cancel"
-msgstr ""
+msgstr "取消 (_C)"
 
 #: ../src/control/stockdlg/ImageOpenDlg.cpp:12
 #: ../src/control/stockdlg/XojOpenDlg.cpp:12
 msgid "_Open"
-msgstr ""
+msgstr "打开(_O)"
 
 #: ../src/control/Control.cpp:2279 ../src/control/jobs/BaseExportJob.cpp:17
 #: ../src/gui/dialog/PageTemplateDialog.cpp:84
 msgid "_Save"
-msgstr ""
+msgstr "保存(_S)"
 
 #: ../src/util/DeviceListHelper.cpp:96
 msgid "cursor"
@@ -1483,11 +1485,11 @@ msgstr "涂白"
 
 #: ../src/control/xojfile/LoadHandler.cpp:905
 msgid "xoj-File: {1}"
-msgstr ""
+msgstr "xoj-文件: {1}"
 
 #: ../src/xoj-preview-extractor/xournal-thumbnailer.cpp:71
 msgid "xoj-preview-extractor: call with INPUT.xoj OUTPUT.png"
-msgstr ""
+msgstr "xoj-preview-extractor: 调用 INPUT.xoj OUTPUT.png"
 
 #: ../src/xoj-preview-extractor/xournal-thumbnailer.cpp:143
 msgid "xoj-preview-extractor: could not find icon \"{1}\""
@@ -1558,11 +1560,12 @@ msgstr ""
 #: ../ui/settings.glade:3360
 msgid "... AND How much time must have passed since last stroke.\n\n"
 "<i>Recommended: 500ms</i>"
-msgstr ""
+msgstr "... 以及自上次勾画以来必须经过多少时间。\n\n"
+"<i>推荐：500ms</i>"
 
 #: ../ui/settings.glade:3968
 msgid "1,00"
-msgstr ""
+msgstr "1,00"
 
 #: ../ui/images.glade:88
 msgid "<b>... or select already used Image:</b>"
@@ -1590,7 +1593,8 @@ msgstr "<b>配置 Xournal++ 页面模板</b>\n"
 msgid "<b>Copy last page</b>\n"
 "Use the settings above\n"
 "for the fist Page"
-msgstr ""
+msgstr "<b>复制最后一页</b>\n"
+"使用上面的设置来查看页面"
 
 #: ../ui/toolbarCustomizeDialog.glade:86
 msgid "<b>Default Tools</b>"
@@ -1609,7 +1613,8 @@ msgstr "<b>文档导出设置</b>\n"
 #: ../ui/main.glade:110
 msgid "<b>Empty Toolbox</b>\n"
 "<i>Menu: View/Toolbars</i>"
-msgstr ""
+msgstr "<b>空工具箱</b>\n"
+"<i>菜单：查看/工具栏</i>"
 
 #: ../ui/fillTransparency.glade:79
 msgid "<b>Fill transparency settings</b>\n"
@@ -1729,7 +1734,7 @@ msgstr "关于Xournal++"
 
 #: ../ui/settings.glade:3430
 msgid "Action on Tool Tap"
-msgstr ""
+msgstr "工具点击操作"
 
 #: ../ui/settings.glade:2921
 msgid "Add additional horizontal space of"
@@ -1977,7 +1982,7 @@ msgstr "启用手势缩放(需要重启)"
 
 #: ../ui/texdialog.glade:72
 msgid "Enter / edit LaTeX Text"
-msgstr ""
+msgstr "输入/编辑 LaTeX 文本"
 
 #: ../ui/main.glade:1615
 msgid "Eraser Optio_ns"
@@ -1985,11 +1990,11 @@ msgstr "橡皮选项(_n)"
 
 #: ../ui/settingsButtonConfig.glade:129
 msgid "Eraser Type - don't change"
-msgstr ""
+msgstr "擦除类型 - 不更改"
 
 #: ../ui/settings.glade:677
 msgid "Experimental Input System"
-msgstr ""
+msgstr "实验输入系统"
 
 #: ../ui/exportSettings.glade:25
 msgid "Export"
@@ -2005,7 +2010,7 @@ msgstr ""
 
 #: ../ui/main.glade:1601 ../ui/main.glade:1806
 msgid "Fill transparency"
-msgstr ""
+msgstr "透明度"
 
 #: ../ui/main.glade:2334
 msgid "Find next occurrence of the search string"
