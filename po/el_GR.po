@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-03-28 04:05+0000\n"
-"PO-Revision-Date: 2020-04-06 16:51\n"
+"PO-Revision-Date: 2020-04-06 17:05\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Greek\n"
 "Language: el_GR\n"
@@ -2028,7 +2028,7 @@ msgstr ""
 
 #: ../ui/about.glade:153
 msgid "Git commit"
-msgstr ""
+msgstr "Git commit"
 
 #: ../ui/settings.glade:2114
 msgid "Global"
@@ -2146,7 +2146,7 @@ msgstr "Διαχείριση Γραμμής Εργαλείων"
 
 #: ../ui/settings.glade:3337
 msgid "Max Length (mm)"
-msgstr "Μέγιστο μήκος (mm)"
+msgstr "Μέγιστο μήκος (μμ)"
 
 #: ../ui/settings.glade:827
 msgid "Merge button events with stylus tip events\n"
@@ -2227,44 +2227,45 @@ msgstr ""
 
 #: ../ui/pagesize.glade:18
 msgid "Paper Format"
-msgstr ""
+msgstr "Σχήμα και διάταξη Χαρτιού"
 
 #: ../ui/main.glade:1199
 msgid "Paper _Color"
-msgstr ""
+msgstr "Χρώμα _Χαρτιού"
 
 #: ../ui/main.glade:1189
 msgid "Paper _Format"
-msgstr ""
+msgstr "Σχήμα και _Διάταξη Χαρτιού"
 
 #: ../ui/main.glade:1209
 msgid "Paper b_ackground"
-msgstr ""
+msgstr "Χρώμα φ_όντου"
 
 #: ../ui/about.glade:247
 msgid "Partially based on Xournal\n"
 "by Denis Auroux"
-msgstr ""
+msgstr "Μερικός βασισμένο στο Xournal\n"
+"από τον Denis Auroux"
 
 #: ../ui/main.glade:1842
 msgid "Pause"
-msgstr ""
+msgstr "Παύση"
 
 #: ../ui/main.glade:1469
 msgid "Pen _Options"
-msgstr ""
+msgstr "Επιλογές _Στυλό"
 
 #: ../ui/settings.glade:3988
 msgid "Playback Settings"
-msgstr ""
+msgstr "Ρυθμίσεις αναπαραγωγής"
 
 #: ../ui/plugin.glade:14
 msgid "Plugin Manager"
-msgstr ""
+msgstr "Διαχείριση Προσθέτων"
 
 #: ../ui/main.glade:1907
 msgid "Plugin _Manager"
-msgstr ""
+msgstr "Διαχείριση _Προσθέτων"
 
 #: ../ui/plugin.glade:121
 msgid "Plugin changes are only applied after Xournal++ was restarted"
@@ -2440,7 +2441,7 @@ msgstr ""
 
 #: ../ui/settings.glade:2763
 msgid "The unit of the ruler is cm"
-msgstr ""
+msgstr "Η μονάδα μέτρησης του χάρακα είναι εκ"
 
 #: ../ui/settings.glade:775
 msgid "These settings take only effect if the experimental input system is activated"
@@ -2448,20 +2449,20 @@ msgstr ""
 
 #: ../ui/settings.glade:628
 msgid "This is an experimental feature! Use it with care."
-msgstr ""
+msgstr "Αυτό το χαρακτηριστικό είναι πειραματικό! Χρησιμοποιήστε με προσοχή."
 
 #: ../ui/settings.glade:1507
 msgid "Timeout"
-msgstr ""
+msgstr "Χρονικό όριο"
 
 #: ../ui/settings.glade:1420 ../ui/settings.glade:1889
 #: ../ui/settingsDeviceClassConfig.glade:46
 msgid "Touchscreen"
-msgstr ""
+msgstr "Οθόνη Αφής"
 
 #: ../ui/fillTransparency.glade:14
 msgid "Transparency settings"
-msgstr ""
+msgstr "Ρυθμίσεις διαφάνειας"
 
 #: ../ui/settings.glade:3377
 msgid "Try to select object first."
@@ -2497,7 +2498,7 @@ msgstr ""
 
 #: ../ui/about.glade:232
 msgid "With help from the community"
-msgstr ""
+msgstr "Με βοήθεια από την κοινότητα"
 
 #: ../ui/settings.glade:1858
 msgid "Workaround"
@@ -2509,7 +2510,7 @@ msgstr ""
 
 #: ../ui/settings.glade:2817
 msgid "Zoom"
-msgstr ""
+msgstr "Μεγέθυνση"
 
 #: ../ui/settings.glade:1789
 msgid "Zoom Gestures"
