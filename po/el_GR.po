@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-04-07 21:28+0000\n"
-"PO-Revision-Date: 2020-04-07 21:29\n"
+"PO-Revision-Date: 2020-04-07 21:59\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Greek\n"
 "Language: el_GR\n"
@@ -1552,12 +1552,35 @@ msgid "%a\t\tAbbreviated weekday name (e.g. Thu)\n"
 "%Y\t\tYear (e.g. 2001)\n"
 "%Z\t\tTimezone name or abbreviation (e.g. CDT)\n"
 "%%\tA % sign"
-msgstr ""
+msgstr "%a\t\tΣυντομογραφία μέρας εβδομάδας (π.χ. Thu)\n"
+"%A\t\tΜέρα της εβδομάδας (π.χ. Thursday)\n"
+"%b\t\tΣυντομογραφία μήνα (π.χ. Aug)\n"
+"%B\t\tΜήνας (π.χ. August)\n"
+"%c\t\tΜέρα και ώρα (π.χ. Thu Aug 23 14:55:02 2001)\n"
+"%d\t\tΗμερομηνία (01-31)\n"
+"%F\t\tΠλήρης ημερομηνία (π.χ. 2001-08-23)\n"
+"%H\t\tΏρα σε 24ωρη μορφή (00-23)\n"
+"%I\t\tΏρα σε 12ωρη μορφή (01-12)\n"
+"%j\t\tΑριθμός μέρας του χρόνου (001-366)\n"
+"%m Μήνας σαν δεκαδικός αριθμός (01-12)\n"
+"%M\tΛεπτό (00-59)\n"
+"%p\t\tΈνδειξη AM ή PM (e.g. PM)\n"
+"%S\t\tΔευτερόλεπτο (00-61)\n"
+"%U\t\tΑριθμός εβδομάδας του χρόνου αρχίζοντας την πρώτη εβδομάδα από την πρώτη Κυριακή (00-53)\n"
+"%w\t\tΜέρα της εβδομάδας σαν δεκαδικός αριθμός με Κυριακή 0 (0-6)\n"
+"%W\tΑριθμός εβδομάδας του χρόνου αρχίζοντας την πρώτη εβδομάδα από την πρώτη Δευτέρα (00-53)\n"
+"%x\t\tΠλήρης ημερομηνία με διαφορετική μορφή (e.g. 08/23/01)\n"
+"%X\t\tΏρα (e.g. 14:55:02)\n"
+"%y\t\tΧρόνος, τελευταία 2 ψηφία (00-99)\n"
+"%Y\t\tΧρόνος (e.g. 2001)\n"
+"%Z\t\tΖώνη ώρας ή συντόμευση (e.g. CDT)\n"
+"%%\tΤο σύμβολο επί τοις εκατό %"
 
 #: ../ui/settings.glade:3360
 msgid "... AND How much time must have passed since last stroke.\n\n"
 "<i>Recommended: 500ms</i>"
-msgstr ""
+msgstr "... ΚΑΙ πόσος χρόνος πρέπει να έχει περάσει από την τελευταία μολυβιά.\n\n"
+"<i>Προτεινόμενος: 500ms</i>"
 
 #: ../ui/settings.glade:3968
 msgid "1,00"
@@ -1565,19 +1588,19 @@ msgstr "1,00"
 
 #: ../ui/images.glade:88
 msgid "<b>... or select already used Image:</b>"
-msgstr ""
+msgstr "<b>... ή επιλέξτε εικόνα που ήδη έχει χρησιμοποιηθεί:</b>"
 
 #: ../ui/pageTemplate.glade:256
 msgid "<b>Background Color</b>"
-msgstr ""
+msgstr "<b>Χρώμα Φόντου</b>"
 
 #: ../ui/pageTemplate.glade:269
 msgid "<b>Background</b>"
-msgstr ""
+msgstr "<b>Φόντο</b>"
 
 #: ../ui/toolbarCustomizeDialog.glade:141
 msgid "<b>Color</b>"
-msgstr ""
+msgstr "<b>Χρωμά</b>"
 
 #: ../ui/pageTemplate.glade:110
 msgid "<b>Configure Xournal++ Template Page</b>\n"
