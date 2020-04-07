@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-03-28 04:05+0000\n"
-"PO-Revision-Date: 2020-04-07 15:21\n"
+"PO-Revision-Date: 2020-04-07 17:46\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
@@ -107,7 +107,7 @@ msgstr ""
 
 #: ../src/control/xojfile/LoadHandlerHelper.cpp:46
 msgid "Attribute color not set!"
-msgstr ""
+msgstr "Cor do atributo não definida!"
 
 #: ../src/control/AudioController.cpp:92
 msgid "Audio folder not set! Recording won't work!\n"
@@ -277,15 +277,15 @@ msgstr ""
 
 #: ../src/gui/dialog/toolbarCustomize/ToolbarAdapter.cpp:169
 msgid "Could not remove tool item from Toolbar {1} on position {2}"
-msgstr ""
+msgstr "Não foi possível remover o item de ferramenta da barra de ferramentas {1} na posição {2}"
 
 #: ../src/gui/dialog/toolbarCustomize/ToolbarAdapter.cpp:164
 msgid "Could not remove tool item {1} from Toolbar {2} on position {3}"
-msgstr ""
+msgstr "Não foi possível remover o item de ferramenta {1} da barra de ferramentas {2} na posição {3}"
 
 #: ../src/control/Control.cpp:231
 msgid "Could not rename autosave file from \"{1}\" to \"{2}\": {3}"
-msgstr ""
+msgstr "Não foi possível renomear o arquivo de salvamento automático de \"{1}\" para \"{2}\": {3}"
 
 #: ../src/control/LatexController.cpp:109
 msgid "Could not save .tex file: {1}"
@@ -293,20 +293,21 @@ msgstr "Não foi possível salvar o arquivo .tex: {1}"
 
 #: ../src/control/LatexController.cpp:128
 msgid "Could not start pdflatex: {1} (exit code: {2})"
-msgstr ""
+msgstr "Não foi possível iniciar o pdflatex: {1} (código de saída: {2})"
 
 #: ../src/undo/UndoRedoHandler.cpp:108
 msgid "Could not undo \"{1}\"\n"
 "Something went wrong… Please write a bug report…"
-msgstr ""
+msgstr "Não foi possível desfazer \"{1}\"\n"
+"Algo deu errado… Por favor, escreva um relatório de erros…"
 
 #: ../src/control/xojfile/SaveHandler.cpp:232
 msgid "Could not write background \"{1}\", {2}"
-msgstr ""
+msgstr "Não foi possível escrever o fundo \"{1}\", {2}"
 
 #: ../src/control/xojfile/SaveHandler.cpp:328
 msgid "Could not write background \"{1}\". Continuing anyway."
-msgstr ""
+msgstr "Não foi possível escrever o fundo \"{1}\". Continuando mesmo assim."
 
 #: ../src/gui/toolbarMenubar/ToolPageLayer.cpp:74
 msgid "Create new layer"
@@ -318,11 +319,11 @@ msgstr "Personalizado"
 
 #: ../src/control/jobs/CustomExportJob.cpp:18
 msgid "Custom Export"
-msgstr ""
+msgstr "Exportação Personalizada"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:354
 msgid "Customize Toolbars"
-msgstr ""
+msgstr "Personalizar barra de ferramentas"
 
 #: ../src/gui/dialog/ToolbarManageDialog.cpp:29
 msgid "Customized"
