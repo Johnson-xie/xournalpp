@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-04-07 21:28+0000\n"
-"PO-Revision-Date: 2020-04-07 23:24\n"
+"PO-Revision-Date: 2020-04-07 23:35\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Greek\n"
 "Language: el_GR\n"
@@ -1639,19 +1639,20 @@ msgstr "<b>Κενό κουτί εργαλείων</b>\n"
 #: ../ui/fillTransparency.glade:79
 msgid "<b>Fill transparency settings</b>\n"
 "Select transparency for fill color"
-msgstr ""
+msgstr "<b>Ρυθμίσεις διαφάνειας γεμίσματος σχημάτων</b>\n"
+"Επιλογή διαφάνειας για το χρώμα γεμίσματος σχημάτων"
 
 #: ../ui/pageTemplate.glade:132
 msgid "<b>Page size</b>"
-msgstr ""
+msgstr "<b>Μέγεθος σελίδας</b>"
 
 #: ../ui/pagesize.glade:142
 msgid "<b>Pagesize</b>"
-msgstr ""
+msgstr "<b>Μέγεθος σελίδας</b>"
 
 #: ../ui/toolbarCustomizeDialog.glade:196
 msgid "<b>Separator</b>"
-msgstr ""
+msgstr "<b>Διαχωριστικό</b>"
 
 #: ../ui/settings.glade:708
 msgid "<i>Assign device classes to each input device of your system. Only change these values if your devices are not correctly matched. (e.g. your pen shows up as touchscreen)</i>"
