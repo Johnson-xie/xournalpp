@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-04-07 21:28+0000\n"
-"PO-Revision-Date: 2020-04-07 23:35\n"
+"PO-Revision-Date: 2020-04-07 23:50\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Greek\n"
 "Language: el_GR\n"
@@ -1656,7 +1656,7 @@ msgstr "<b>Διαχωριστικό</b>"
 
 #: ../ui/settings.glade:708
 msgid "<i>Assign device classes to each input device of your system. Only change these values if your devices are not correctly matched. (e.g. your pen shows up as touchscreen)</i>"
-msgstr ""
+msgstr "<i>Θέστε κατηγορίες συσκευών σε κάθε συσκευή εισόδου του συστήματός σας. Αλλάξτε τις τιμές μόνο αν οι συσκευές σας δεν είναι σωστά κατηγοριοποιημένες. (π.χ. η γραφίδα σας έχει οριστεί σαν οθόνη αφής)</i>"
 
 #: ../ui/settings.glade:3659
 msgid "<i>Audio recordings are currently stored in a separate folder and referenced from the journal.</i>"
@@ -1672,7 +1672,7 @@ msgstr ""
 
 #: ../ui/exportSettings.glade:209
 msgid "<i>Example:</i> 1-3 or 1,3,5-7 etc."
-msgstr ""
+msgstr "<i>Παράδειγμα:</i> 1-3 ή 1,3,5-7 κοκ."
 
 #: ../ui/settings.glade:1820
 msgid "<i>For some specific hardware the scroll / touch behaviour of the system is not as expected. For these cases Xournal++ has a workaround.\n"
