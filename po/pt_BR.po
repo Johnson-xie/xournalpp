@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-03-28 04:05+0000\n"
-"PO-Revision-Date: 2020-04-05 19:09\n"
+"PO-Revision-Date: 2020-04-07 15:21\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
@@ -112,7 +112,8 @@ msgstr ""
 #: ../src/control/AudioController.cpp:92
 msgid "Audio folder not set! Recording won't work!\n"
 "Please set the recording folder under \"Preferences > Audio recording\""
-msgstr ""
+msgstr "Pasta de áudio não definida! A gravação não funcionará!\n"
+"Por favor, defina a pasta de gravação em \"Preferências > Gravação de áudio\""
 
 #: ../src/control/Control.cpp:240
 msgid "Autosave failed with an error: {1}"
@@ -267,7 +268,7 @@ msgstr ""
 #: ../src/control/xojfile/LoadHandler.cpp:340
 #: ../src/control/xojfile/LoadHandler.cpp:364
 msgid "Could not read image: {1}. Error message: {2}"
-msgstr ""
+msgstr "Não foi possível ler a imagem: {1}. Mensagem de erro: {2}"
 
 #: ../src/undo/UndoRedoHandler.cpp:137
 msgid "Could not redo \"{1}\"\n"
@@ -288,7 +289,7 @@ msgstr ""
 
 #: ../src/control/LatexController.cpp:109
 msgid "Could not save .tex file: {1}"
-msgstr ""
+msgstr "Não foi possível salvar o arquivo .tex: {1}"
 
 #: ../src/control/LatexController.cpp:128
 msgid "Could not start pdflatex: {1} (exit code: {2})"
