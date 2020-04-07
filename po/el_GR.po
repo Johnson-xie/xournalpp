@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-04-07 21:28+0000\n"
-"PO-Revision-Date: 2020-04-07 21:59\n"
+"PO-Revision-Date: 2020-04-07 22:26\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Greek\n"
 "Language: el_GR\n"
@@ -1605,26 +1605,30 @@ msgstr "<b>Χρωμά</b>"
 #: ../ui/pageTemplate.glade:110
 msgid "<b>Configure Xournal++ Template Page</b>\n"
 "This settings will be used if you create a new document"
-msgstr ""
+msgstr "<b>Διαμόρφωση πρότυπου σελίδας Xournal++</b>\n"
+"Οι ρυθμίσεις θα χρησιμοποιούνται κατά την δημιουργία νέου εγγράφου"
 
 #: ../ui/pageTemplate.glade:241 ../ui/pageTemplate.glade:282
 msgid "<b>Copy last page</b>\n"
 "Use the settings above\n"
 "for the fist Page"
-msgstr ""
+msgstr "<b>Αντιγραφή τελευταίας σελίδας</b>\n"
+"Χρήση των παραπάνω ρυθμίσεων\n"
+"για την πρώτη Σελίδα"
 
 #: ../ui/toolbarCustomizeDialog.glade:86
 msgid "<b>Default Tools</b>"
-msgstr ""
+msgstr "<b>Προεπιλεγμένα Εργαλεία</b>"
 
 #: ../ui/settings.glade:3568
 msgid "<b>Default</b>"
-msgstr ""
+msgstr "<b>Προεπιλογή</b>"
 
 #: ../ui/exportSettings.glade:90
 msgid "<b>Document export settings</b>\n"
 "Select pages to export"
-msgstr ""
+msgstr "<b>Ρυθμίσεις εξαγωγής εγγράφου</b>\n"
+"Επιλογή σελίδων για εξαγωγή"
 
 #: ../ui/main.glade:110
 msgid "<b>Empty Toolbox</b>\n"
