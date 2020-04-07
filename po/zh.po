@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-03-28 04:05+0000\n"
-"PO-Revision-Date: 2020-04-07 04:07\n"
+"POT-Creation-Date: 2020-04-07 21:28+0000\n"
+"PO-Revision-Date: 2020-04-07 21:30\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -674,7 +674,7 @@ msgstr "浅蓝"
 msgid "Light Green"
 msgstr "浅绿"
 
-#: ../src/gui/PageView.cpp:699
+#: ../src/gui/PageView.cpp:687
 #: ../src/gui/sidebar/previews/base/SidebarPreviewBaseEntry.cpp:76
 #: ../src/gui/toolbarMenubar/ToolPageLayer.cpp:15
 msgid "Loading..."
@@ -1215,7 +1215,7 @@ msgstr "工具条"
 msgid "Trying to emergency save the current open document…"
 msgstr "尝试紧急保存当前打开的文档…"
 
-#: ../src/gui/PageView.cpp:355
+#: ../src/gui/PageView.cpp:346
 msgid "Unable to play audio recording {1}"
 msgstr "无法播放音频录音 {1}"
 
