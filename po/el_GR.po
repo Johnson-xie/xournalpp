@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-04-07 21:28+0000\n"
-"PO-Revision-Date: 2020-04-08 00:55\n"
+"PO-Revision-Date: 2020-04-08 12:35\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Greek\n"
 "Language: el_GR\n"
@@ -765,11 +765,11 @@ msgstr "Άνοιγμα εικόνας"
 
 #: ../src/control/XournalMain.cpp:115
 msgid "Open Logfile"
-msgstr ""
+msgstr "Άνοιγμα αρχείου καταγραφής"
 
 #: ../src/control/XournalMain.cpp:116
 msgid "Open Logfile directory"
-msgstr ""
+msgstr "Άνοιγμα φακέλου αρχείου καταγραφής"
 
 #: ../src/control/stockdlg/XojOpenDlg.cpp:11
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:318
