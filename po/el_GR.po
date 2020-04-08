@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-04-07 21:28+0000\n"
-"PO-Revision-Date: 2020-04-08 15:28\n"
+"PO-Revision-Date: 2020-04-08 15:38\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Greek\n"
 "Language: el_GR\n"
@@ -747,7 +747,7 @@ msgstr "Δεν υπάρχουν σελίδες για εξαγωγή!"
 
 #: ../src/gui/dialog/ButtonConfigGui.cpp:93
 msgid "Normal drawing"
-msgstr ""
+msgstr "Κανονικός σχεδιασμός"
 
 #: ../src/plugin/Plugin.cpp:308 ../src/plugin/Plugin.cpp:327
 msgid "OK"
@@ -1230,11 +1230,11 @@ msgstr "Αναίρεση: "
 
 #: ../src/control/xojfile/LoadHandler.cpp:278
 msgid "Unexpected root tag: {1}"
-msgstr ""
+msgstr "Μη αναμενόμενη ετικέτα ρίζας: {1}"
 
 #: ../src/control/xojfile/LoadHandler.cpp:299
 msgid "Unexpected tag in document: \"{1}\""
-msgstr ""
+msgstr "Μη αναμενόμενη ετικέτα στο έγγραφο: \"{1}\""
 
 #: ../src/control/xojfile/LoadHandler.cpp:488
 msgid "Unknown background type: {1}"
@@ -1246,19 +1246,19 @@ msgstr "Άγνωστη τιμή χρώματος \"{1}\""
 
 #: ../src/control/xojfile/LoadHandler.cpp:446
 msgid "Unknown domain type: {1}"
-msgstr ""
+msgstr "Άγνωστος τύπος τομέα: {1}"
 
 #: ../src/control/xojfile/LoadHandler.cpp:221
 msgid "Unknown parser error"
-msgstr ""
+msgstr "Άγνωστο σφάλμα αναλυτή"
 
 #: ../src/control/xojfile/LoadHandler.cpp:376
 msgid "Unknown pixmap::domain type: {1}"
-msgstr ""
+msgstr "Άγνωστος pixmap::τύπος τομέα: {1}"
 
 #: ../src/control/xojfile/LoadHandler.cpp:579
 msgid "Unknown stroke type: \"{1}\", assuming pen"
-msgstr ""
+msgstr "Άγνωστος τύπος μολυβιάς: \"{1}\", υποθέτω στυλό"
 
 #: ../src/control/Control.cpp:2342
 msgid "Unsaved Document"
@@ -1303,7 +1303,7 @@ msgstr "Λάθος αριθμός σημείων, βρέθηκαν {1}, περι
 
 #: ../src/control/xojfile/LoadHandler.cpp:218
 msgid "XML Parser error: {1}"
-msgstr ""
+msgstr "Σφάλμα αναλυτή XML: {1}"
 
 #: ../src/control/jobs/CustomExportJob.cpp:26
 msgid "Xournal (Compatibility)"
@@ -2126,7 +2126,7 @@ msgstr ""
 
 #: ../ui/settings.glade:3284
 msgid "Ignore Time (ms)"
-msgstr ""
+msgstr "Αγνόησε Χρόνο (ms)"
 
 #: ../ui/settings.glade:3773
 msgid "Input Device"
@@ -2187,7 +2187,8 @@ msgstr "Μέγιστο μήκος (μμ)"
 #: ../ui/settings.glade:827
 msgid "Merge button events with stylus tip events\n"
 "<i>(Check this if</i> \"<tt>xsetwacom get *deviceId* TabletPCButton</tt>\" <i>returns</i> \"<tt>on</tt>\"<i>)</i>"
-msgstr ""
+msgstr "Ένωση ενεργειών κουμπιών και ενεργειών μύτης γραφίδας\n"
+"<i>(Επιλέξτε αυτό αν</i> \"<tt>xsetwacom get *deviceId* TabletPCButton</tt>\" <i>επιστρέφει</i> \"<tt>on</tt>\"<i>)</i>"
 
 #: ../ui/settings.glade:961
 msgid "Middle Mouse Button"
@@ -2305,7 +2306,7 @@ msgstr "Διαχείριση _Προσθέτων"
 
 #: ../ui/plugin.glade:121
 msgid "Plugin changes are only applied after Xournal++ was restarted"
-msgstr ""
+msgstr "Αλλαγές στα πρόσθετα εφαρμόζονται μόνο μετά από επανεκκίνηση του Xournal++"
 
 #: ../ui/main.glade:440
 msgid "Preferences"
@@ -2321,7 +2322,7 @@ msgstr "Ευαισθησία Πίεσης"
 
 #: ../ui/about.glade:167
 msgid "RELEASE_IDENTIFIER"
-msgstr ""
+msgstr "ΑΝΑΓΝΩΡΙΣΤΙΚΟ_ΕΚΔΟΣΗΣ"
 
 #: ../ui/exportSettings.glade:127
 msgid "Range"
@@ -2822,7 +2823,7 @@ msgstr "φόρτωση από αρχείο"
 
 #: ../ui/settings.glade:293
 msgid "minutes"
-msgstr ""
+msgstr "λεπτά"
 
 #: ../ui/settings.glade:2960 ../ui/settings.glade:2971
 #: ../ui/settings.glade:3219
