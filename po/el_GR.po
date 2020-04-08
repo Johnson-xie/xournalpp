@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-04-07 21:28+0000\n"
-"PO-Revision-Date: 2020-04-08 13:01\n"
+"PO-Revision-Date: 2020-04-08 13:14\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Greek\n"
 "Language: el_GR\n"
@@ -1193,7 +1193,7 @@ msgstr "Το αρχείο δεν έχει αποθηκευτεί ακόμα."
 #: ../src/control/PageBackgroundChangeController.cpp:150
 #: ../src/control/tools/ImageHandler.cpp:43
 msgid "This image could not be loaded. Error message: {1}"
-msgstr ""
+msgstr "Απέτυχε η φόρτωση της εικόνας. Μήνυμα σφάλματος: {1}"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:351
 msgid "Toggle fullscreen"
@@ -1712,12 +1712,13 @@ msgstr "<i>Επιλέξτε το εργαλείο και τις ρυθμίσει
 
 #: ../ui/settings.glade:1592
 msgid "<i>Specify commands that are called once Hand Recognition triggers. The commands will be executed in the UI Thread, make sure they are not blocking!</i>"
-msgstr "<i>Προσδιορίστε εντολές που εκτελούνται όταν λειτουργεί η Αναγνώριση Χεριού. Οι εντολές θα εκτελεστούν στο νήμα του UI, σιγουρευτείτε ότι δεν το μπλοκάρουν!</i>"
+msgstr "<i>Καθορίστε τις εντολές που εκτελούνται όταν λειτουργεί η Αναγνώριση Χεριού. Οι εντολές θα εκτελεστούν στο νήμα του UI, σιγουρευτείτε ότι δεν το μπλοκάρουν!</i>"
 
 #: ../ui/settings.glade:3749
 msgid "<i>Specify the audio devices used for recording and playback of audio attachments. \n"
 "If available select <small><tt>pulse</tt></small> as input / output device.</i>"
-msgstr ""
+msgstr "<i>Καθορίστε στην τις συσκευές ήχου για εγγραφή και αναπαραγωγή συνημμένων ήχου. \n"
+"Αν είναι διαθέσιμο επιλέξτε <small><tt>pulse</tt></small> σαν συσκευή εισόδου / εξόδου.</i>"
 
 #: ../ui/settings.glade:1167
 msgid "<i>Specify the tools that will be selected if a button of the stylus is pressed or the eraser is used. After releasing the button, the previous tool will be selected.</i>"
