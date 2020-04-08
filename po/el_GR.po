@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-04-07 21:28+0000\n"
-"PO-Revision-Date: 2020-04-08 15:12\n"
+"PO-Revision-Date: 2020-04-08 15:28\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Greek\n"
 "Language: el_GR\n"
@@ -1159,15 +1159,15 @@ msgstr "Ο τύπος είναι κενός όταν αποδίδεται ή μ�
 
 #: ../src/control/XournalMain.cpp:109
 msgid "The most recent log file name: {1}"
-msgstr ""
+msgstr "Το πιο πρόσφατο όνομα αρχείου καταγραφής: {1}"
 
 #: ../src/control/XournalMain.cpp:102
 msgid "There are errorlogfiles from Xournal++. Please send a Bugreport, so the bug may be fixed."
-msgstr ""
+msgstr "Υπάρχουν αρχεία σφαλμάτων από το Xournal++. Παρακαλώ στείλτε μια αναφορά σφάλματος έτσι ώστε να διορθωθεί το πρόβλημα."
 
 #: ../src/control/XournalMain.cpp:101
 msgid "There is an errorlogfile from Xournal++. Please send a Bugreport, so the bug may be fixed."
-msgstr ""
+msgstr "Υπάρχουν ένα αρχείο σφαλμάτων από το Xournal++. Παρακαλώ στείλτε μια αναφορά σφάλματος έτσι ώστε να διορθωθεί το πρόβλημα."
 
 #: ../src/util/XojMsgBox.cpp:89
 msgid "There was an error displaying help: {1}"
@@ -1968,7 +1968,7 @@ msgstr "Ενεργοποίηση"
 
 #: ../ui/settings.glade:3179
 msgid "Enable  with determination radius of "
-msgstr ""
+msgstr "Ενεργοποίση με αναγνωριστική ακτίνα "
 
 #: ../ui/settings.glade:544
 msgid "Enable Autoloading of Journals"
@@ -1980,7 +1980,7 @@ msgstr "Ενεργοποίηση Αυτόματης Αποθήκευσης"
 
 #: ../ui/settings.glade:1836
 msgid "Enable GTK Touch / Scrolling workaround  (requires restart)"
-msgstr ""
+msgstr "Ενεργοποίηση λύσης του GTK  για Αφής / Scrolling (Απαιτεί επανεκκίνηση)"
 
 #: ../ui/settings.glade:1114
 msgid "Enable Pressure Sensitivity"
@@ -1992,11 +1992,11 @@ msgstr "Ενεργοποίηση ενέργειας κατά το στιγμια
 
 #: ../ui/settings.glade:796
 msgid "Enable drawing outside of window <i>(Drawing will not stop at the border of the window)</i>"
-msgstr ""
+msgstr "Ενεργοποίηση σχεδιασμού εκτός παραθύρου <i>(Ο σχεδιασμός δεν θα σταματήσει στο σύνορο παραθύρου)</i>"
 
 #: ../ui/settings.glade:1466
 msgid "Enable internal Hand Recognition"
-msgstr ""
+msgstr "Ενεργοποιείστε της εσωτερικής Αναγνώρισης Παλάμης"
 
 #: ../ui/settings.glade:643
 msgid "Enable new input system (Requires restart)"
@@ -2048,7 +2048,7 @@ msgstr "Βρες την προηγούμενη εμφάνιση της αναζ�
 
 #: ../ui/settings.glade:3026
 msgid "First Page Offset "
-msgstr ""
+msgstr "Μετατόπιση Πρώτης Σελίδας "
 
 #: ../ui/main.glade:485 ../ui/settings.glade:2395
 msgid "Fullscreen"
@@ -2080,7 +2080,7 @@ msgstr "Ευαισθησία προσκόλλησης στον καμβά"
 
 #: ../ui/main.glade:1451
 msgid "H_and Tool"
-msgstr ""
+msgstr "Εργαλείο Χ_εριού"
 
 #: ../ui/settings.glade:1724
 msgid "Hand Recognition"
@@ -2108,11 +2108,11 @@ msgstr "Απόκρυψη της κατακόρυφης μπάρας κύλιση
 
 #: ../ui/settings.glade:2144
 msgid "Highlight cursor position"
-msgstr ""
+msgstr "Έμφαση στην θέση του κέρσορα"
 
 #: ../ui/main.glade:1724
 msgid "Highlighter Opti_ons"
-msgstr ""
+msgstr "Επι_λογές Υπογραμμισμού"
 
 #: ../ui/settings.glade:3317
 msgid "How short (screen mm)  of the stroke  AND...\n\n"
@@ -2325,7 +2325,7 @@ msgstr ""
 
 #: ../ui/exportSettings.glade:127
 msgid "Range"
-msgstr ""
+msgstr "Εύρος"
 
 #: ../ui/main.glade:190
 msgid "Recent _Documents"
