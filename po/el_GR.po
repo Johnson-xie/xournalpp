@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-04-07 21:28+0000\n"
-"PO-Revision-Date: 2020-04-08 12:48\n"
+"PO-Revision-Date: 2020-04-08 13:01\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Greek\n"
 "Language: el_GR\n"
@@ -1213,7 +1213,7 @@ msgstr "Γραμμές εργαλείων"
 
 #: ../src/util/CrashHandler.cpp:30
 msgid "Trying to emergency save the current open document…"
-msgstr ""
+msgstr "Προσπάθεια έκτακτης αποθήκευσης του ανοιχτού εγγράφου…"
 
 #: ../src/gui/PageView.cpp:346
 msgid "Unable to play audio recording {1}"
@@ -1238,11 +1238,11 @@ msgstr ""
 
 #: ../src/control/xojfile/LoadHandler.cpp:488
 msgid "Unknown background type: {1}"
-msgstr ""
+msgstr "Άγνωστος τύπος φόντου: {1}"
 
 #: ../src/control/xojfile/LoadHandlerHelper.cpp:54
 msgid "Unknown color value \"{1}\""
-msgstr ""
+msgstr "Άγνωστη τιμή χρώματος \"{1}\""
 
 #: ../src/control/xojfile/LoadHandler.cpp:446
 msgid "Unknown domain type: {1}"
@@ -1712,7 +1712,7 @@ msgstr "<i>Επιλέξτε το εργαλείο και τις ρυθμίσει
 
 #: ../ui/settings.glade:1592
 msgid "<i>Specify commands that are called once Hand Recognition triggers. The commands will be executed in the UI Thread, make sure they are not blocking!</i>"
-msgstr ""
+msgstr "<i>Προσδιορίστε εντολές που εκτελούνται όταν λειτουργεί η Αναγνώριση Χεριού. Οι εντολές θα εκτελεστούν στο νήμα του UI, σιγουρευτείτε ότι δεν το μπλοκάρουν!</i>"
 
 #: ../ui/settings.glade:3749
 msgid "<i>Specify the audio devices used for recording and playback of audio attachments. \n"
