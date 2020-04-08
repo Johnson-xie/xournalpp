@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-04-07 21:28+0000\n"
-"PO-Revision-Date: 2020-04-08 15:48\n"
+"PO-Revision-Date: 2020-04-08 16:02\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Greek\n"
 "Language: el_GR\n"
@@ -315,7 +315,7 @@ msgstr "Αδυναμία εγγραφής φόντου \"{1}\". Συνέχεια
 
 #: ../src/gui/toolbarMenubar/ToolPageLayer.cpp:74
 msgid "Create new layer"
-msgstr "Δημιουργία νέου στρώματος"
+msgstr "Δημιουργία νέας στρώσης"
 
 #: ../src/gui/dialog/FormatDialog.cpp:67
 msgid "Custom"
@@ -360,7 +360,7 @@ msgstr "Διαγραφή αρχείου"
 
 #: ../src/undo/RemoveLayerUndoAction.cpp:28
 msgid "Delete layer"
-msgstr "Διαγραφή στρώματος"
+msgstr "Διαγραφή στρώσης"
 
 #: ../src/control/Control.cpp:2447
 msgid "Discard"
@@ -1489,35 +1489,35 @@ msgstr "xoj-Αρχείο: {1}"
 
 #: ../src/xoj-preview-extractor/xournal-thumbnailer.cpp:71
 msgid "xoj-preview-extractor: call with INPUT.xoj OUTPUT.png"
-msgstr ""
+msgstr "xoj-preview-extractor: καλέστε με ΕΙΣΑΓΩΓΗ.xoj ΕΞΑΓΩΓΗ.png"
 
 #: ../src/xoj-preview-extractor/xournal-thumbnailer.cpp:143
 msgid "xoj-preview-extractor: could not find icon \"{1}\""
-msgstr ""
+msgstr "xoj-preview-extractor: δεν βρέθηκε το icon \"{1}\""
 
 #: ../src/xoj-preview-extractor/xournal-thumbnailer.cpp:92
 msgid "xoj-preview-extractor: file \"{1}\" contains no preview"
-msgstr ""
+msgstr "xoj-preview-extractor: το αρχείο \"{1}\" δεν περιέχει προεπισκόπηση"
 
 #: ../src/xoj-preview-extractor/xournal-thumbnailer.cpp:84
 msgid "xoj-preview-extractor: file \"{1}\" is not .xoj file"
-msgstr ""
+msgstr "xoj-preview-extractor: το αρχείο \"{1}\" δεν είναι αρχείο .xoj"
 
 #: ../src/xoj-preview-extractor/xournal-thumbnailer.cpp:97
 msgid "xoj-preview-extractor: no preview and page found, maybe an invalid file?"
-msgstr ""
+msgstr "xoj-preview-extractor: δεν βρέθηκε προεπισκόπηση ούτε σελίδα, πιθανών μη έγκυρο αρχείο;"
 
 #: ../src/xoj-preview-extractor/xournal-thumbnailer.cpp:88
 msgid "xoj-preview-extractor: opening input file \"{1}\" failed"
-msgstr ""
+msgstr "xoj-preview-extractor: το άνοιγμα του αρχείου \"{1}\" απέτυχε"
 
 #: ../src/xoj-preview-extractor/xournal-thumbnailer.cpp:156
 msgid "xoj-preview-extractor: opening output file \"{1}\" failed"
-msgstr ""
+msgstr "xoj-preview-extractor: το άνοιγμα του αρχείου εξαγωγής {1} απέτυχε"
 
 #: ../src/xoj-preview-extractor/xournal-thumbnailer.cpp:163
 msgid "xoj-preview-extractor: successfully extracted"
-msgstr ""
+msgstr "xoj-preview-extractor: εξαγάγαμε επιτυχώς"
 
 #: ../src/util/Util.cpp:96
 msgid "xournalpp-{1}"
@@ -2120,12 +2120,14 @@ msgstr "Επι_λογές Υπογραμμισμού"
 #: ../ui/settings.glade:3317
 msgid "How short (screen mm)  of the stroke  AND...\n\n"
 "<i>Recommended: 1 mm</i>"
-msgstr ""
+msgstr "Πόσο μικρή (μμ στην οθόνης) μολυβιά ΚΑΙ...\n\n"
+"<i>Προτεινόμενο: 1 μμ</i>"
 
 #: ../ui/settings.glade:3297
 msgid "How short (time)  AND...\n\n"
 "<i>Recommended: 150ms</i>"
-msgstr ""
+msgstr "Πόσο σύντομη (χρόνος) ΚΑΙ...\n\n"
+"<i>Προτεινόμενο: 150 ms</i>"
 
 #: ../ui/settings.glade:3284
 msgid "Ignore Time (ms)"
