@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-04-07 21:28+0000\n"
-"PO-Revision-Date: 2020-04-08 00:33\n"
+"PO-Revision-Date: 2020-04-08 00:42\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Greek\n"
 "Language: el_GR\n"
@@ -1692,7 +1692,7 @@ msgstr "<i>Αν προσθέσετε επιπλέον χώρο στις σελί
 
 #: ../ui/settings.glade:529
 msgid "<i>If you open a PDF and there is a Xournal file with the same name it will open the xoj file.</i>"
-msgstr ""
+msgstr "<i>Αν ανοίξετε ένα PDF και υπάρχει Xournal αρχείο με το ίδιο όνομα θα ανοιχθεί το αρχείο xoj.</i>"
 
 #: ../ui/settings.glade:1451
 msgid "<i>If your hardware does not support hand recognition, Xournal++ can disable your touchscreen when your pen is near the screen.</i>"
