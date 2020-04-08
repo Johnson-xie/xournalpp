@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-04-07 21:28+0000\n"
-"PO-Revision-Date: 2020-04-08 14:49\n"
+"PO-Revision-Date: 2020-04-08 15:12\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Greek\n"
 "Language: el_GR\n"
@@ -874,7 +874,7 @@ msgstr "Κενή"
 #: ../src/gui/toolbarMenubar/ToolSelectCombocontrol.cpp:20
 #: ../src/gui/toolbarMenubar/ToolSelectCombocontrol.cpp:71
 msgid "Play Object"
-msgstr ""
+msgstr "Αναπαραγωγή Αντικειμένου"
 
 #: ../src/gui/dialog/ToolbarManageDialog.cpp:17
 msgid "Predefined"
@@ -1865,7 +1865,7 @@ msgstr "Κέρσορας"
 
 #: ../ui/settings.glade:1699
 msgid "Custom Commands (for Method \"Custom\")"
-msgstr ""
+msgstr "Προσαρμοσμένες Εντολές (για Μέθοδο \"Προσαρμοσμένο/η\")"
 
 #: ../ui/settings.glade:2074
 msgid "Dark Theme (requires restart)"
@@ -1925,7 +1925,7 @@ msgstr "Μέθοδος απενεργοποίησης"
 
 #: ../ui/settings.glade:2786
 msgid "Display DPI Calibration"
-msgstr ""
+msgstr "Βαθμονόμηση DPI Οθόνης"
 
 #: ../ui/settings.glade:3271
 msgid "Do not draw for inputs of short time and length unless it comes in short succession. Instead, show floating toolbox."
@@ -1940,7 +1940,7 @@ msgstr ""
 
 #: ../ui/toolbarCustomizeDialog.glade:57
 msgid "Drag and drop Components fom here to the toolbars and back."
-msgstr ""
+msgstr "Σύρεται αντικείμενα από και προς τις γραμμές εργαλείων."
 
 #: ../ui/main.glade:1364
 msgid "Draw _Line"
@@ -1952,7 +1952,7 @@ msgstr "Περιοχή Σχεδιασμού"
 
 #: ../ui/settings.glade:3234
 msgid "Drawing Tools - Set Modifiers by Draw Direction (Experimental)"
-msgstr ""
+msgstr "Εργαλεία Σχεδιασμού - Ορισμός Χαρακτηριστικών μέσω της Κατεύθυνσης Σχεδιασμού (Πειραματικό)"
 
 #: ../ui/main.glade:2540
 msgid "Duplicate"
@@ -1976,7 +1976,7 @@ msgstr "Ενεργοποίηση Αυτόματη Φόρτωση Journal"
 
 #: ../ui/settings.glade:242
 msgid "Enable Autosaving"
-msgstr ""
+msgstr "Ενεργοποίηση Αυτόματης Αποθήκευσης"
 
 #: ../ui/settings.glade:1836
 msgid "Enable GTK Touch / Scrolling workaround  (requires restart)"
