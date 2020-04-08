@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-04-07 21:28+0000\n"
-"PO-Revision-Date: 2020-04-08 00:42\n"
+"PO-Revision-Date: 2020-04-08 00:55\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Greek\n"
 "Language: el_GR\n"
@@ -1696,7 +1696,7 @@ msgstr "<i>Αν ανοίξετε ένα PDF και υπάρχει Xournal αρχ
 
 #: ../ui/settings.glade:1451
 msgid "<i>If your hardware does not support hand recognition, Xournal++ can disable your touchscreen when your pen is near the screen.</i>"
-msgstr ""
+msgstr "<i>Αν οι συσκευές σας δεν υποστηρίζουν αναγνώριση γραφής, το Xournal++ μπορεί να απενεργοποιήσει την οθόνη αφής σας όταν η γραφίδα σας είναι κοντά στην οθόνη.</i>"
 
 #: ../ui/settings.glade:1099
 msgid "<i>Pressure Sensitivity allows you to draw lines with different widths, depending on how much pressure you apply to the pen. If your tablet does not support this feature this setting has no effect.</i>"
