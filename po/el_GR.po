@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-04-07 21:28+0000\n"
-"PO-Revision-Date: 2020-04-08 14:24\n"
+"PO-Revision-Date: 2020-04-08 14:49\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Greek\n"
 "Language: el_GR\n"
@@ -1171,7 +1171,7 @@ msgstr ""
 
 #: ../src/util/XojMsgBox.cpp:89
 msgid "There was an error displaying help: {1}"
-msgstr ""
+msgstr "Παρουσιάστηκε σφάλμα κατά την προβολή της βοήθειας: {1}"
 
 #: ../src/gui/dialog/ButtonConfigGui.cpp:84
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:474
@@ -2000,11 +2000,11 @@ msgstr ""
 
 #: ../ui/settings.glade:643
 msgid "Enable new input system (Requires restart)"
-msgstr ""
+msgstr "Ενεργοποίησης νέο συστήματος εισόδου (Απαιτεί επανεκκίνηση)"
 
 #: ../ui/settings.glade:1767
 msgid "Enable zoom gestures (requires restart)"
-msgstr ""
+msgstr "Ενεργοποίηση χειρονομιών μεγέθυνσης (Απαιτεί επανεκκίνηση)"
 
 #: ../ui/texdialog.glade:72
 msgid "Enter / edit LaTeX Text"
@@ -2012,7 +2012,7 @@ msgstr "Προσθήκη / επεξεργασία κειμένου LaTeX"
 
 #: ../ui/main.glade:1615
 msgid "Eraser Optio_ns"
-msgstr ""
+msgstr "Ρυθ_μίσεις Γόμας"
 
 #: ../ui/settingsButtonConfig.glade:129
 msgid "Eraser Type - don't change"
@@ -2044,7 +2044,7 @@ msgstr "Βρες την επόμενη εμφάνιση της αναζητού�
 
 #: ../ui/main.glade:2312
 msgid "Find previous occurrence of the search string"
-msgstr ""
+msgstr "Βρες την προηγούμενη εμφάνιση της αναζητούμενης συμβολοσειράς"
 
 #: ../ui/settings.glade:3026
 msgid "First Page Offset "
