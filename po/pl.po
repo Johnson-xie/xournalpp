@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-04-07 21:28+0000\n"
-"PO-Revision-Date: 2020-04-07 21:29\n"
+"PO-Revision-Date: 2020-04-09 19:05\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
@@ -1754,7 +1754,7 @@ msgstr "<span size=\"xx-large\" weight=\"bold\">Xournal++</span>\n"
 
 #: ../ui/about.glade:9
 msgid "About Xournal++"
-msgstr ""
+msgstr "O Xournal++"
 
 #: ../ui/settings.glade:3430
 msgid "Action on Tool Tap"
@@ -1831,19 +1831,19 @@ msgstr ""
 
 #: ../ui/settings.glade:1208
 msgid "Button 1"
-msgstr ""
+msgstr "Przycisk 1"
 
 #: ../ui/settings.glade:1246
 msgid "Button 2"
-msgstr ""
+msgstr "Przycisk 2"
 
 #: ../ui/settings.glade:2096
 msgid "Colors"
-msgstr ""
+msgstr "Kolory"
 
 #: ../ui/main.glade:1134
 msgid "Configure Page Template"
-msgstr ""
+msgstr "Skonfiguruj szablon strony"
 
 #: ../ui/pageTemplate.glade:185
 msgid "Copy last page settings"
@@ -1859,7 +1859,7 @@ msgstr "Aktywna strona"
 
 #: ../ui/settings.glade:2182
 msgid "Cursor"
-msgstr ""
+msgstr "Kursor"
 
 #: ../ui/settings.glade:1699
 msgid "Custom Commands (for Method \"Custom\")"
@@ -1867,11 +1867,11 @@ msgstr ""
 
 #: ../ui/settings.glade:2074
 msgid "Dark Theme (requires restart)"
-msgstr ""
+msgstr "Ciemny motyw (wymaga restartu)"
 
 #: ../ui/settings.glade:498
 msgid "Default Save Name"
-msgstr ""
+msgstr "Domyślna nazwa zapisu"
 
 #: ../ui/settings.glade:3955
 msgid "Default Seek Time (in seconds)"
@@ -1879,7 +1879,7 @@ msgstr ""
 
 #: ../ui/settings.glade:386
 msgid "Default name: "
-msgstr ""
+msgstr "Domyślna nazwa: "
 
 #: ../ui/settings.glade:3608
 msgid "Defaults"
@@ -1895,7 +1895,7 @@ msgstr "Usuń kreskę"
 
 #: ../ui/main.glade:2136
 msgid "Delete this page"
-msgstr ""
+msgstr "Usuń stronę"
 
 #: ../ui/settingsButtonConfig.glade:25
 msgid "Device"
@@ -1942,7 +1942,7 @@ msgstr "Przeciągnij i upuść Komponenty na paski narzędzi i z powrotem."
 
 #: ../ui/main.glade:1364
 msgid "Draw _Line"
-msgstr ""
+msgstr "Rysuj _Linię"
 
 #: ../ui/settings.glade:3462
 msgid "Drawing Area"
