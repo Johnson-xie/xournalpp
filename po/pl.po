@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-04-07 21:28+0000\n"
-"PO-Revision-Date: 2020-04-09 19:20\n"
+"PO-Revision-Date: 2020-04-09 19:36\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
@@ -2398,11 +2398,11 @@ msgstr "Ustawienia:"
 
 #: ../ui/settings.glade:3407
 msgid "Show Floating Toolbox"
-msgstr ""
+msgstr "Pokaż Pływający Zestaw Narzędzi"
 
 #: ../ui/settings.glade:1943
 msgid "Show Menubar on Startup"
-msgstr ""
+msgstr "Pokaż Pasek Menu przy Uruchomieniu"
 
 #: ../ui/main.glade:496
 msgid "Show sidebar"
@@ -2422,7 +2422,7 @@ msgstr "Przyciąganie"
 
 #: ../ui/settings.glade:2579
 msgid "Speed for Ctrl + Scroll"
-msgstr ""
+msgstr "Czułość dla Ctrl + Scroll"
 
 #: ../ui/settings.glade:2607
 msgid "Speed for a Zoomstep"
@@ -2450,11 +2450,11 @@ msgstr ""
 
 #: ../ui/main.glade:2072
 msgid "Swap the current page with the one above"
-msgstr ""
+msgstr "Zamień tę stronę ze stroną powyżej"
 
 #: ../ui/main.glade:2094
 msgid "Swap the current page with the one below"
-msgstr ""
+msgstr "Zamień tę stronę ze stroną poniżej"
 
 #: ../ui/main.glade:840
 msgid "T_oolbars"
@@ -2466,7 +2466,7 @@ msgstr "Szablon:"
 
 #: ../ui/settings.glade:1660 ../ui/settings.glade:1673
 msgid "Test"
-msgstr ""
+msgstr "Test"
 
 #: ../ui/main.glade:1820
 msgid "Text Font..."
@@ -2478,15 +2478,15 @@ msgstr "Linijka jest skalowana w cm"
 
 #: ../ui/settings.glade:775
 msgid "These settings take only effect if the experimental input system is activated"
-msgstr ""
+msgstr "Te zmiany przyniosą skutek tylko jeśli eksperymentalna metoda wprowadzania jest aktywna"
 
 #: ../ui/settings.glade:628
 msgid "This is an experimental feature! Use it with care."
-msgstr ""
+msgstr "Funkcja eksperymentalna! Używać z rozwagą."
 
 #: ../ui/settings.glade:1507
 msgid "Timeout"
-msgstr ""
+msgstr "Limit czasu"
 
 #: ../ui/settings.glade:1420 ../ui/settings.glade:1889
 #: ../ui/settingsDeviceClassConfig.glade:46
@@ -2547,11 +2547,11 @@ msgstr "Przybliżenie"
 
 #: ../ui/settings.glade:1789
 msgid "Zoom Gestures"
-msgstr ""
+msgstr "Gesty Przybliżania"
 
 #: ../ui/settings.glade:2661
 msgid "Zoom Speed"
-msgstr ""
+msgstr "Czułość Przybliżania"
 
 #: ../ui/main.glade:633
 msgid "_1 Column"
@@ -2751,7 +2751,7 @@ msgstr "_Narzędzia"
 
 #: ../ui/main.glade:1050
 msgid "_Top Layer"
-msgstr ""
+msgstr "_Górna warstwa"
 
 #: ../ui/main.glade:582
 msgid "_Top to Bottom"
@@ -2803,7 +2803,7 @@ msgstr ""
 
 #: ../ui/exportSettings.glade:223
 msgid "dpi"
-msgstr ""
+msgstr "dpi"
 
 #: ../ui/pluginEntry.glade:130
 msgid "enabled,"
@@ -2815,16 +2815,16 @@ msgstr ""
 
 #: ../ui/pageTemplate.glade:51
 msgid "load from file"
-msgstr ""
+msgstr "wczytaj z pliku"
 
 #: ../ui/settings.glade:293
 msgid "minutes"
-msgstr ""
+msgstr "minuty"
 
 #: ../ui/settings.glade:2960 ../ui/settings.glade:2971
 #: ../ui/settings.glade:3219
 msgid "pixels"
-msgstr ""
+msgstr "piksele"
 
 #: ../ui/settings.glade:1551
 msgid "s <i>(after which the touchscreen will be reactivated again)</i>"
