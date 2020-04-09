@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-04-07 21:28+0000\n"
-"PO-Revision-Date: 2020-04-09 19:36\n"
+"PO-Revision-Date: 2020-04-09 19:48\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
@@ -2106,7 +2106,7 @@ msgstr "Ukryj pionowy suwak"
 
 #: ../ui/settings.glade:2144
 msgid "Highlight cursor position"
-msgstr ""
+msgstr "Podświetl pozycję kursora"
 
 #: ../ui/main.glade:1724
 msgid "Highlighter Opti_ons"
@@ -2189,7 +2189,7 @@ msgstr ""
 
 #: ../ui/settings.glade:961
 msgid "Middle Mouse Button"
-msgstr ""
+msgstr "Środkowy Przycisk Myszki"
 
 #: ../ui/settings.glade:1048 ../ui/settingsDeviceClassConfig.glade:42
 msgid "Mouse"
@@ -2205,11 +2205,11 @@ msgstr ""
 
 #: ../ui/main.glade:2562
 msgid "Move Down"
-msgstr ""
+msgstr "Przesuń w Dół"
 
 #: ../ui/main.glade:2554
 msgid "Move Up"
-msgstr ""
+msgstr "Przesuń do Góry"
 
 #: ../ui/main.glade:1066
 msgid "N_ext annotated page"
@@ -2290,7 +2290,7 @@ msgstr "_Opcje pióra"
 
 #: ../ui/settings.glade:3988
 msgid "Playback Settings"
-msgstr ""
+msgstr "Ustawienia Odtwarzania"
 
 #: ../ui/plugin.glade:14
 msgid "Plugin Manager"
@@ -2799,7 +2799,7 @@ msgstr "_wybielanie"
 
 #: ../ui/pageTemplate.glade:158
 msgid "change"
-msgstr ""
+msgstr "zmiana"
 
 #: ../ui/exportSettings.glade:223
 msgid "dpi"
@@ -2807,11 +2807,11 @@ msgstr "dpi"
 
 #: ../ui/pluginEntry.glade:130
 msgid "enabled,"
-msgstr ""
+msgstr "aktywny,"
 
 #: ../ui/settings.glade:266
 msgid "every"
-msgstr ""
+msgstr "każdy"
 
 #: ../ui/pageTemplate.glade:51
 msgid "load from file"
@@ -2828,11 +2828,11 @@ msgstr "piksele"
 
 #: ../ui/settings.glade:1551
 msgid "s <i>(after which the touchscreen will be reactivated again)</i>"
-msgstr ""
+msgstr "s <i>(po którym ekran dotykowy zostanie ponownie aktywowany)</i>"
 
 #: ../ui/pageTemplate.glade:37
 msgid "save to file"
-msgstr ""
+msgstr "zapisz do pliku"
 
 #: ../ui/main.glade:1524 ../ui/main.glade:1670 ../ui/main.glade:1779
 msgid "ver_y thick"
