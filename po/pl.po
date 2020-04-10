@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-04-07 21:28+0000\n"
-"PO-Revision-Date: 2020-04-09 19:48\n"
+"POT-Creation-Date: 2020-04-10 01:30+0000\n"
+"PO-Revision-Date: 2020-04-10 01:55\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
@@ -15,13 +15,13 @@ msgstr ""
 "X-Crowdin-Language: pl\n"
 "X-Crowdin-File: /master/po/xournalpp.pot\n"
 
-#: ../src/control/XournalMain.cpp:508
+#: ../src/control/XournalMain.cpp:509
 msgid "\n\n"
 "Will now attempt to run without this file."
 msgstr "\n\n"
 "Teraz podejmie próbę uruchomienia bez tego pliku."
 
-#: ../src/control/XournalMain.cpp:488
+#: ../src/control/XournalMain.cpp:489
 msgid "\n"
 "Will now attempt to run without this file."
 msgstr "\n"
@@ -40,7 +40,7 @@ msgstr "%F-Notatka-%H-%M"
 msgid "<b>No devices were found. This seems wrong - maybe file a bug report?</b>"
 msgstr "<b>Nie znaleziono urządzeń. To wydaje się niepoprawne - może wyślij raport błędu?</b>"
 
-#: ../src/control/XournalMain.cpp:503
+#: ../src/control/XournalMain.cpp:504
 msgid "<span foreground='red' size='x-large'>Missing the needed UI file:\n"
 "<b>{1}</b></span>\n"
 "Could not find them at any location.\n"
@@ -54,7 +54,7 @@ msgstr "<span foreground='red' size='x-large'>Brakuje wymaganego pliku UI:\n"
 "  Nie w Ścieżce Roboczej\n"
 "  Nie w {2}"
 
-#: ../src/control/XournalMain.cpp:273
+#: ../src/control/XournalMain.cpp:274
 msgid "Absolute path for the audio files playback"
 msgstr "Bezpośrednia ścieżka do odtwarzania plików dźwiękowych"
 
@@ -115,11 +115,11 @@ msgid "Audio folder not set! Recording won't work!\n"
 msgstr "Nie ustawiono folderu pliku dźwiękowego! Nagrywanie nie będzie działać!\n"
 "Ustaw proszę folder do nagrań pod \"Preferencje > Nagrywanie dźwięku\""
 
-#: ../src/control/Control.cpp:240
+#: ../src/control/Control.cpp:239
 msgid "Autosave failed with an error: {1}"
 msgstr "Auto-zapis się nie powiódł z powodu błędu: {1}"
 
-#: ../src/control/Control.cpp:206
+#: ../src/control/Control.cpp:205
 msgid "Autosave renamed from {1} to {2}"
 msgstr "Zmieniono nazwę auto-zapisu z {1} na {2}"
 
@@ -148,8 +148,8 @@ msgstr "Czarny"
 msgid "Blue"
 msgstr "Niebieski"
 
-#: ../src/control/Control.cpp:1998 ../src/control/Control.cpp:2450
-#: ../src/control/XournalMain.cpp:118
+#: ../src/control/Control.cpp:1997 ../src/control/Control.cpp:2449
+#: ../src/control/XournalMain.cpp:119
 msgid "Cancel"
 msgstr "Anuluj"
 
@@ -199,31 +199,31 @@ msgstr "Nie można stworzyć kopii zapasowej! (Plik został stworzony w starszej
 msgid "Could not create folder: {1}"
 msgstr "Nie można utworzyć folderu: {1}"
 
-#: ../src/control/LatexController.cpp:85
+#: ../src/control/LatexController.cpp:84
 msgid "Could not find kpsewhich in PATH; please install kpsewhich and put it on path."
 msgstr "Nie znaleziono kpsewhich w ŚCIEŻCE; zainstaluj kpsewhich i umieść pod ścieżką."
 
-#: ../src/control/LatexController.cpp:70
+#: ../src/control/LatexController.cpp:69
 msgid "Could not find pdflatex in PATH.\n"
 "Please install pdflatex first and make sure it's in the PATH."
 msgstr "Nie znaleziono pdflatex po ŚCIEŻKĄ.\n"
 "Zainstaluj pdflatex i upewnij się że znajduje się pod ŚCIEŻKĄ."
 
-#: ../src/control/LatexController.cpp:89
+#: ../src/control/LatexController.cpp:88
 msgid "Could not find the LaTeX package 'standalone'.\n"
 "Please install standalone (found in texlive-latex-extra) and make sure it's accessible by your LaTeX installation."
 msgstr "Nie znaleziono \"samodzielnego\" pakietu LaTeX.\n"
 "Zainstaluj samodzielny pakiet LaTeX (do znalezienia w texlive-latex-extra) i upewnij się, że jest dostępny dla twojej instalacji LaTeX."
 
-#: ../src/control/LatexController.cpp:386
+#: ../src/control/LatexController.cpp:385
 msgid "Could not load LaTeX PDF file"
 msgstr "Nie udało się wgrać pliku LaTeX PDF"
 
-#: ../src/control/LatexController.cpp:371
+#: ../src/control/LatexController.cpp:370
 msgid "Could not load LaTeX PDF file, File Error: {1}"
 msgstr "Nie udało się wgrać pliku LaTeX PDF, Błąd Pliku: {1}"
 
-#: ../src/control/LatexController.cpp:378
+#: ../src/control/LatexController.cpp:377
 msgid "Could not load LaTeX PDF file: {1}"
 msgstr "Nie udało się wgrać pliku LaTeX PDF: {1}"
 
@@ -287,15 +287,15 @@ msgstr "Nie udało się usunąć narzędzia z Paska {1} w pozycji {2}"
 msgid "Could not remove tool item {1} from Toolbar {2} on position {3}"
 msgstr "Nie udało się usunąć narzędzia {1} z Paska {2} w pozycji {3}"
 
-#: ../src/control/Control.cpp:231
+#: ../src/control/Control.cpp:230
 msgid "Could not rename autosave file from \"{1}\" to \"{2}\": {3}"
 msgstr "Nie udało się zmienić nazwy auto-zapisu z \"{1}\" na \"{2}\": {3}"
 
-#: ../src/control/LatexController.cpp:109
+#: ../src/control/LatexController.cpp:108
 msgid "Could not save .tex file: {1}"
 msgstr "Nie udało się zapisać pliku .tex: {1}"
 
-#: ../src/control/LatexController.cpp:128
+#: ../src/control/LatexController.cpp:127
 msgid "Could not start pdflatex: {1} (exit code: {2})"
 msgstr "Nie udało się uruchomić pdflatex: {1} (kod błędu: {2})"
 
@@ -346,7 +346,7 @@ msgstr "Domyślne narzędzie"
 msgid "Delete"
 msgstr "Usuń"
 
-#: ../src/control/XournalMain.cpp:117
+#: ../src/control/XournalMain.cpp:118
 msgid "Delete Logfile"
 msgstr "Usuń plik loggera"
 
@@ -354,7 +354,7 @@ msgstr "Usuń plik loggera"
 msgid "Delete current page"
 msgstr "Usuń aktywną stronę"
 
-#: ../src/control/XournalMain.cpp:161
+#: ../src/control/XournalMain.cpp:162
 msgid "Delete file"
 msgstr "Usuń plik"
 
@@ -362,11 +362,11 @@ msgstr "Usuń plik"
 msgid "Delete layer"
 msgstr "Usuń warstwę"
 
-#: ../src/control/Control.cpp:2447
+#: ../src/control/Control.cpp:2446
 msgid "Discard"
 msgstr "Odrzuć"
 
-#: ../src/control/Control.cpp:1939
+#: ../src/control/Control.cpp:1938
 msgid "Do not open Autosave files. They may will be overwritten!\n"
 "Copy the files to another folder.\n"
 "Files from Folder {1} cannot be opened."
@@ -378,7 +378,7 @@ msgstr "Nie otwieraj plików Auto-zapisu. Mogą zostać nadpisane!\n"
 msgid "Do not overwrite the background PDF! This will cause errors!"
 msgstr "Nie nadpisuj pliku kanwy PDF! To może spowodować błędy!"
 
-#: ../src/control/Control.cpp:2441
+#: ../src/control/Control.cpp:2440
 msgid "Document file was removed."
 msgstr "Dokument został usunięty."
 
@@ -462,7 +462,7 @@ msgstr "Wymaż kreskę"
 msgid "Eraser"
 msgstr "Gumka"
 
-#: ../src/control/Control.cpp:2188
+#: ../src/control/Control.cpp:2187
 msgid "Error annotate PDF file \"{1}\"\n"
 "{2}"
 msgstr "Błąd przy adnotowaniu pliku PDF \"{1}\"\n"
@@ -472,7 +472,7 @@ msgstr "Błąd przy adnotowaniu pliku PDF \"{1}\"\n"
 msgid "Error loading glade file \"{1}\" (try to load \"{2}\")"
 msgstr "Błąd przy otwieraniu pliku glade \"{1}\" (spróbuj załadować \"{2}\")"
 
-#: ../src/control/Control.cpp:2020
+#: ../src/control/Control.cpp:2019
 msgid "Error opening file \"{1}\""
 msgstr "Błąd przy otwieraniu pliku \"{1}\""
 
@@ -509,7 +509,7 @@ msgstr "Błąd {1} w trakcie wykonywania polecenia systemowego: {2}"
 msgid "Error: {1}"
 msgstr "Błąd: {1}"
 
-#: ../src/control/XournalMain.cpp:137
+#: ../src/control/XournalMain.cpp:138
 msgid "Errorlog cannot be deleted. You have to do it manually.\n"
 "Logfile: {1}"
 msgstr "Nie można usunąć pliku z raportem błędu. Trzeba to zrobić ręcznie.\n"
@@ -525,7 +525,7 @@ msgid "File couldn't be opened. You have to do it manually:\n"
 msgstr "Nie da się otworzyć dokumentu. Musisz to zrobić ręcznie:\n"
 "URL: {1}"
 
-#: ../src/control/Control.cpp:1964
+#: ../src/control/Control.cpp:1963
 msgid "Filename: {1}"
 msgstr "Nazwa pliku: {1}"
 
@@ -610,11 +610,11 @@ msgstr "Zakreślacz"
 msgid "Image"
 msgstr "Obraz"
 
-#: ../src/control/XournalMain.cpp:224
+#: ../src/control/XournalMain.cpp:225
 msgid "Image file successfully created"
 msgstr "Udało się utworzyć zdjęcie"
 
-#: ../src/control/XournalMain.cpp:271
+#: ../src/control/XournalMain.cpp:272
 msgid "Image output filename (.png / .svg)"
 msgstr "Nazwa wyjściowego obrazu (.png / .svg)"
 
@@ -642,7 +642,7 @@ msgstr "Wstaw warstwę"
 msgid "Insert page"
 msgstr "Wstaw stronę"
 
-#: ../src/control/XournalMain.cpp:272
+#: ../src/control/XournalMain.cpp:273
 msgid "Jump to Page (first Page: 1)"
 msgstr "Skocz do strony (pierwsza strona: 1)"
 
@@ -694,7 +694,7 @@ msgstr "Zarządzaj paskiem narzędzi"
 msgid "Medium"
 msgstr "Średnia"
 
-#: ../src/control/XournalMain.cpp:485
+#: ../src/control/XournalMain.cpp:486
 msgid "Missing the needed UI file:\n"
 "{1}\n"
 " .app corrupted?\n"
@@ -763,11 +763,11 @@ msgstr "Tylko pliki lokalne są obsługiwane\n"
 msgid "Open Image"
 msgstr "Otwórz obraz"
 
-#: ../src/control/XournalMain.cpp:115
+#: ../src/control/XournalMain.cpp:116
 msgid "Open Logfile"
 msgstr "Otwórz plik loggera"
 
-#: ../src/control/XournalMain.cpp:116
+#: ../src/control/XournalMain.cpp:117
 msgid "Open Logfile directory"
 msgstr "Otwórz folder z plikami loggera"
 
@@ -798,7 +798,7 @@ msgstr "strona PDF {1}"
 msgid "PDF background missing"
 msgstr "Nie znaleziono pliku PDF w tle"
 
-#: ../src/control/XournalMain.cpp:254
+#: ../src/control/XournalMain.cpp:255
 msgid "PDF file successfully created"
 msgstr "Utworzono dokument PDF"
 
@@ -808,7 +808,7 @@ msgstr "Utworzono dokument PDF"
 msgid "PDF files"
 msgstr "Pliki PDF"
 
-#: ../src/control/XournalMain.cpp:270
+#: ../src/control/XournalMain.cpp:271
 msgid "PDF output filename"
 msgstr "Nazwa pliku PDF"
 
@@ -828,7 +828,7 @@ msgstr "Obraz PNG z przezroczystym tłem"
 msgid "Page"
 msgstr "Strona"
 
-#: ../src/gui/sidebar/previews/page/SidebarPreviewPages.cpp:61
+#: ../src/gui/sidebar/previews/page/SidebarPreviewPages.cpp:62
 msgid "Page Preview"
 msgstr "Podgląd strony"
 
@@ -888,7 +888,7 @@ msgstr "Tryb prezentacji"
 msgid "Record Audio / Stop Recording"
 msgstr "Nagraj dźwięk / Zatrzymaj nagrywanie"
 
-#: ../src/control/Control.cpp:899
+#: ../src/control/Control.cpp:898
 msgid "Recorder could not be started."
 msgstr "Nagrywarka nie mogła zostać uruchomiona."
 
@@ -906,7 +906,7 @@ msgstr "Powtórz"
 msgid "Redo: "
 msgstr "Powtórz: "
 
-#: ../src/control/Control.cpp:1997
+#: ../src/control/Control.cpp:1996
 msgid "Remove PDF Background"
 msgstr "Usuń PDF w tle"
 
@@ -926,7 +926,7 @@ msgstr "Zamień"
 msgid "Requested temporary file was not found for attachment {1}"
 msgstr "Żądany plik tymczasowy nie został znaleziony dla załącznika {1}"
 
-#: ../src/control/XournalMain.cpp:162
+#: ../src/control/XournalMain.cpp:163
 msgid "Restore file"
 msgstr "Przywróć plik"
 
@@ -958,16 +958,16 @@ msgstr "Obraz SVG"
 msgid "SVG with transparent background"
 msgstr "Obraz SVG z przezroczystym tłem"
 
-#: ../src/control/Control.cpp:2442 ../src/control/jobs/SaveJob.cpp:13
+#: ../src/control/Control.cpp:2441 ../src/control/jobs/SaveJob.cpp:13
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:319
 msgid "Save"
 msgstr "Zapisz"
 
-#: ../src/control/Control.cpp:2442
+#: ../src/control/Control.cpp:2441
 msgid "Save As..."
 msgstr "Zapisz jako..."
 
-#: ../src/control/Control.cpp:2278 ../src/gui/dialog/PageTemplateDialog.cpp:83
+#: ../src/control/Control.cpp:2277 ../src/gui/dialog/PageTemplateDialog.cpp:83
 msgid "Save File"
 msgstr "Zapisz plik"
 
@@ -1008,7 +1008,7 @@ msgstr "Wybierz prostokąt"
 msgid "Select Region"
 msgstr "Wybierz obszar"
 
-#: ../src/control/Control.cpp:1996
+#: ../src/control/Control.cpp:1995
 msgid "Select another PDF"
 msgstr "Wybierz inny PDF"
 
@@ -1033,7 +1033,7 @@ msgstr "Wybierz prostokąt"
 msgid "Select region"
 msgstr "Wybierz obszar"
 
-#: ../src/control/XournalMain.cpp:114
+#: ../src/control/XournalMain.cpp:115
 msgid "Send Bugreport"
 msgstr "Wyślij raport błędu"
 
@@ -1057,13 +1057,13 @@ msgstr "Pokaż tylko nieużywane strony (jedna nieużywana strona)"
 msgid "Show only not used pages ({1} unused pages)"
 msgstr "Pokaż tylko nieużywane strony ({1} nieużywanych stron)"
 
-#: ../src/control/XournalMain.cpp:338
+#: ../src/control/XournalMain.cpp:339
 msgid "Sorry, Xournal++ can only open one file at once.\n"
 "Others are ignored."
 msgstr "Przepraszamy, Xournal++ może mieć otwarty tylko jeden plik na raz.\n"
 "Inne pliki są pomijane."
 
-#: ../src/control/XournalMain.cpp:350
+#: ../src/control/XournalMain.cpp:351
 msgid "Sorry, Xournal++ cannot open remote files at the moment.\n"
 "You have to copy the file to a local directory."
 msgstr "Przepraszamy, Xournal++ nie otwiera plików zdalnych.\n"
@@ -1125,15 +1125,15 @@ msgstr "Tekst nie został znaleziony"
 msgid "Text not found, searched on all pages"
 msgstr "Tekst nie został znaleziony, szukano na wszystkich stronach"
 
-#: ../src/control/Control.cpp:1058
+#: ../src/control/Control.cpp:1057
 msgid "The Toolbarconfiguration \"{1}\" is predefined, would you create a copy to edit?"
 msgstr "Konfiguracja paska narzędzi \"{1}\" jest predefiniowana. Czy stworzyć możliwą do edycji kopię?"
 
-#: ../src/control/Control.cpp:1993
+#: ../src/control/Control.cpp:1992
 msgid "The attached background PDF could not be found."
 msgstr "Załączony PDF w tle nie został znaleziony."
 
-#: ../src/control/Control.cpp:1994
+#: ../src/control/Control.cpp:1993
 msgid "The background PDF could not be found."
 msgstr "PDF w tle nie został znaleziony."
 
@@ -1153,19 +1153,19 @@ msgstr "Plik nie jest prawidłowym plikiem .xopp (brak znacznika wersji): \"{1}\
 msgid "The file is not a valid .xopp file (Version string corrupted): \"{1}\""
 msgstr "Plik nie jest prawidłowym plikiem .xopp (Uszkodzony znacznik wersji): \"{1}\""
 
-#: ../src/control/LatexController.cpp:307
+#: ../src/control/LatexController.cpp:306
 msgid "The formula is empty when rendered or invalid."
 msgstr "Pusty lub nieprawidłowy wzór podczas renderowania."
 
-#: ../src/control/XournalMain.cpp:109
+#: ../src/control/XournalMain.cpp:110
 msgid "The most recent log file name: {1}"
 msgstr "Najnowszy plik loggera: {1}"
 
-#: ../src/control/XournalMain.cpp:102
+#: ../src/control/XournalMain.cpp:103
 msgid "There are errorlogfiles from Xournal++. Please send a Bugreport, so the bug may be fixed."
 msgstr "Znaleziono raporty błędów programu Xournal++. Prosimy o ich wysłanie, w celu umożliwienia naprawy."
 
-#: ../src/control/XournalMain.cpp:101
+#: ../src/control/XournalMain.cpp:102
 msgid "There is an errorlogfile from Xournal++. Please send a Bugreport, so the bug may be fixed."
 msgstr "Znaleziono raport błędu programu Xournal++. Prosimy o jego wysłanie, w celu umożliwienia naprawy."
 
@@ -1186,12 +1186,12 @@ msgstr "Grubość - nie zmieniaj"
 msgid "Thin"
 msgstr "Cienki"
 
-#: ../src/control/Control.cpp:2441
+#: ../src/control/Control.cpp:2440
 msgid "This document is not saved yet."
 msgstr "Dokument nie został jeszcze zapisany."
 
-#: ../src/control/PageBackgroundChangeController.cpp:150
-#: ../src/control/tools/ImageHandler.cpp:43
+#: ../src/control/PageBackgroundChangeController.cpp:151
+#: ../src/control/tools/ImageHandler.cpp:44
 msgid "This image could not be loaded. Error message: {1}"
 msgstr "Nie można otworzyć obrazu. Wiadomość błędu: {1}"
 
@@ -1260,7 +1260,7 @@ msgstr "Nieznany typ pixmap::domain: {1}"
 msgid "Unknown stroke type: \"{1}\", assuming pen"
 msgstr "Nieznany rodzaj kreski: \"{1}\", zakładam, że to pióro"
 
-#: ../src/control/Control.cpp:2342
+#: ../src/control/Control.cpp:2341
 msgid "Unsaved Document"
 msgstr "Niezapisany dokument"
 
@@ -1313,11 +1313,11 @@ msgstr "Xournal (Zgodność)"
 msgid "Xournal files"
 msgstr "Pliki Xournala"
 
-#: ../src/control/XournalMain.cpp:156
+#: ../src/control/XournalMain.cpp:157
 msgid "Xournal++ crashed last time. Would you like to restore the last edited file?"
 msgstr "Xournal++ przestał odpowiadać się ostatnim razem. Czy chcesz przywrócić ostatni edytowany plik?"
 
-#: ../src/control/Control.cpp:2284 ../src/control/stockdlg/XojOpenDlg.cpp:57
+#: ../src/control/Control.cpp:2283 ../src/control/stockdlg/XojOpenDlg.cpp:57
 msgid "Xournal++ files"
 msgstr "Pliki Xournal++"
 
@@ -1331,13 +1331,13 @@ msgstr "Szablony Xournal++"
 msgid "Yellow"
 msgstr "Żółty"
 
-#: ../src/control/PageBackgroundChangeController.cpp:185
+#: ../src/control/PageBackgroundChangeController.cpp:186
 msgid "You don't have any PDF pages to select from. Cancel operation.\n"
 "Please select another background type: Menu \"Journal\" → \"Configure Page Template\"."
 msgstr "Nie ma żadnych stron PDF do wybrania. Anulowano działanie.\n"
 "Wybierz inny typ kanwy: Menu \"Journal\" -> \"Skonfiguruj Stronę Szablonu\"."
 
-#: ../src/control/XournalMain.cpp:105
+#: ../src/control/XournalMain.cpp:106
 msgid "You're using {1}/{2} branch. Send Bugreport will direct you to this repo's issue tracker."
 msgstr "Używasz gałęzi {1}/{2}. Raport błędu zostanie wysłany do repozytorium źródłowego."
 
@@ -1369,7 +1369,7 @@ msgstr "Suwak przybliżenia"
 msgid "Zoom to 100%"
 msgstr "Powiększ do 100%"
 
-#: ../src/control/Control.cpp:2278 ../src/control/jobs/BaseExportJob.cpp:17
+#: ../src/control/Control.cpp:2277 ../src/control/jobs/BaseExportJob.cpp:17
 #: ../src/control/stockdlg/ImageOpenDlg.cpp:11
 #: ../src/control/stockdlg/XojOpenDlg.cpp:11
 #: ../src/gui/dialog/PageTemplateDialog.cpp:84
@@ -1381,7 +1381,7 @@ msgstr "_Anuluj"
 msgid "_Open"
 msgstr "_Otwórz"
 
-#: ../src/control/Control.cpp:2279 ../src/control/jobs/BaseExportJob.cpp:17
+#: ../src/control/Control.cpp:2278 ../src/control/jobs/BaseExportJob.cpp:17
 #: ../src/gui/dialog/PageTemplateDialog.cpp:84
 msgid "_Save"
 msgstr "_Zapisz"
@@ -1438,7 +1438,7 @@ msgstr "latex"
 msgid "mouse"
 msgstr "myszka"
 
-#: ../src/control/LatexController.cpp:264
+#: ../src/control/LatexController.cpp:263
 msgid "pdflatex encountered an error: {1} (exit code: {2})"
 msgstr "pdflatex napotkał błąd: {1} (kod zakończenia: {2})"
 
