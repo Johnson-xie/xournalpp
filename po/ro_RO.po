@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-04-10 01:30+0000\n"
-"PO-Revision-Date: 2020-04-10 01:55\n"
+"PO-Revision-Date: 2020-04-12 09:38\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Romanian\n"
 "Language: ro_RO\n"
@@ -18,25 +18,27 @@ msgstr ""
 #: ../src/control/XournalMain.cpp:509
 msgid "\n\n"
 "Will now attempt to run without this file."
-msgstr ""
+msgstr "\n\n"
+"Va încerca acum să ruleze fără acest fișier."
 
 #: ../src/control/XournalMain.cpp:489
 msgid "\n"
 "Will now attempt to run without this file."
-msgstr ""
+msgstr "\n"
+"Va încerca acum să ruleze fără acest fișier."
 
 #: ../src/gui/MainWindow.cpp:630
 msgctxt "Page {pagenumber} \"of {pagecount}\""
 msgid " of {1}{2}"
-msgstr ""
+msgstr " din {1}{2}"
 
 #: ../src/control/settings/Settings.cpp:100
 msgid "%F-Note-%H-%M"
-msgstr ""
+msgstr "%F-Notă-%H-%M"
 
 #: ../src/gui/dialog/SettingsDialog.cpp:102
 msgid "<b>No devices were found. This seems wrong - maybe file a bug report?</b>"
-msgstr ""
+msgstr "<b>Niciun dispozitiv nu a fost găsit. Poți să încarci un raport de eroare?</b>"
 
 #: ../src/control/XournalMain.cpp:504
 msgid "<span foreground='red' size='x-large'>Missing the needed UI file:\n"
@@ -45,45 +47,50 @@ msgid "<span foreground='red' size='x-large'>Missing the needed UI file:\n"
 "  Not relative\n"
 "  Not in the Working Path\n"
 "  Not in {2}"
-msgstr ""
+msgstr "<span foreground='red' size='x-large'>Lipsește fișierul necesar UI:\n"
+"<b>{1}</b></span>\n"
+"Nu l-au găsit în nicio locație.\n"
+"  Nu este relativ\n"
+"  Nu se afla in calea de lucru\n"
+"  Nu in {2}"
 
 #: ../src/control/XournalMain.cpp:274
 msgid "Absolute path for the audio files playback"
-msgstr ""
+msgstr "Calea absolută pentru redarea fişierelor audio"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:399
 msgid "Add/Edit Tex"
-msgstr ""
+msgstr "Adăugare/Editare Tab"
 
 #: ../src/control/stockdlg/XojOpenDlg.cpp:35
 msgid "All files"
-msgstr ""
+msgstr "Toate fisierele"
 
 #: ../src/control/pagetype/PageTypeMenu.cpp:197
 msgid "Apply to all pages"
-msgstr ""
+msgstr "Aplică la toate paginile"
 
 #: ../src/control/pagetype/PageTypeMenu.cpp:188
 msgid "Apply to current page"
-msgstr ""
+msgstr "Aplică la pagina curentă"
 
 #: ../src/control/stockdlg/ImageOpenDlg.cpp:27
 #: ../src/control/stockdlg/XojOpenDlg.cpp:112
 msgid "Attach file to the journal"
-msgstr ""
+msgstr "Ataşează fişierul la jurnal"
 
 #: ../src/control/xojfile/LoadHandlerHelper.cpp:104
 msgid "Attribute \"{1}\" could not be parsed as double, the value is \"{2}\""
-msgstr ""
+msgstr "Atributul \"{1}\" nu a putut fi analizat ca dublu, valoarea este \"{2}\""
 
 #: ../src/control/xojfile/LoadHandlerHelper.cpp:97
 msgid "Attribute \"{1}\" could not be parsed as double, the value is nullptr"
-msgstr ""
+msgstr "Atributul \"{1}\" nu a putut fi analizat ca dublu, valoarea este nullptr"
 
 #: ../src/control/xojfile/LoadHandlerHelper.cpp:121
 #: ../src/control/xojfile/LoadHandlerHelper.cpp:140
 msgid "Attribute \"{1}\" could not be parsed as int, the value is \"{2}\""
-msgstr ""
+msgstr "Atributul \"{1}\" nu a putut fi analizat ca int, valoarea este \"{2}\""
 
 #: ../src/control/xojfile/LoadHandlerHelper.cpp:114
 msgid "Attribute \"{1}\" could not be parsed as int, the value is nullptr"
@@ -100,147 +107,150 @@ msgstr ""
 
 #: ../src/control/xojfile/LoadHandlerHelper.cpp:46
 msgid "Attribute color not set!"
-msgstr ""
+msgstr "Culoarea atributului nu a fost stabilită!"
 
 #: ../src/control/AudioController.cpp:92
 msgid "Audio folder not set! Recording won't work!\n"
 "Please set the recording folder under \"Preferences > Audio recording\""
-msgstr ""
+msgstr "Dosarul audio nu este setat! Înregistrarea nu va funcționa!\n"
+"Vă rugăm să setați dosarul de înregistrare sub \"Preferințe > înregistrare audio\""
 
 #: ../src/control/Control.cpp:239
 msgid "Autosave failed with an error: {1}"
-msgstr ""
+msgstr "Salvarea automată a eșuat cu o eroare: {1}"
 
 #: ../src/control/Control.cpp:205
 msgid "Autosave renamed from {1} to {2}"
-msgstr ""
+msgstr "Salvare automată redenumită de la {1} la {2}"
 
 #: ../src/control/jobs/AutosaveJob.cpp:44
 msgid "Autosaving to {1}"
-msgstr ""
+msgstr "Salvare automată la {1}"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:365
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:436
 msgid "Back"
-msgstr ""
+msgstr "Înapoi"
 
 #: ../src/gui/sidebar/previews/layer/SidebarPreviewLayerEntry.cpp:19
 #: ../src/gui/toolbarMenubar/ToolPageLayer.cpp:191
 #: ../src/gui/toolbarMenubar/ToolPageLayer.cpp:231
 msgid "Background"
-msgstr ""
+msgstr "Fundal"
 
 #: ../src/gui/dialog/toolbarCustomize/CustomizeableColorList.cpp:10
 #: ../src/gui/toolbarMenubar/model/ToolbarColorNames.cpp:103
 msgid "Black"
-msgstr ""
+msgstr "Negru"
 
 #: ../src/gui/dialog/toolbarCustomize/CustomizeableColorList.cpp:14
 #: ../src/gui/toolbarMenubar/model/ToolbarColorNames.cpp:107
 msgid "Blue"
-msgstr ""
+msgstr "Albastru"
 
 #: ../src/control/Control.cpp:1997 ../src/control/Control.cpp:2449
 #: ../src/control/XournalMain.cpp:119
 msgid "Cancel"
-msgstr ""
+msgstr "Anulează"
 
 #: ../src/undo/ColorUndoAction.cpp:90
 msgid "Change color"
-msgstr ""
+msgstr "Schimbă Culoarea"
 
 #: ../src/undo/FontUndoAction.cpp:105
 msgid "Change font"
-msgstr ""
+msgstr "Schimbă fontul"
 
 #: ../src/undo/FillUndoAction.cpp:79
 msgid "Change stroke fill"
-msgstr ""
+msgstr "Schimbă umplerea liniei"
 
 #: ../src/undo/SizeUndoAction.cpp:104
 msgid "Change stroke width"
-msgstr ""
+msgstr "Schimbă grosimea liniei"
 
 #: ../src/control/xojfile/LoadHandlerHelper.cpp:70
 msgid "Color \"{1}\" unknown (not defined in default color list)!"
-msgstr ""
+msgstr "Culoare \"{1}\" necunoscută (nu este definită în lista de culori implicită)!"
 
 #: ../src/gui/sidebar/indextree/SidebarIndexPage.cpp:226
 msgid "Contents"
-msgstr ""
+msgstr "Conţinut"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:331
 #: ../src/gui/toolbarMenubar/model/ToolbarModel.cpp:75
 #: ../src/gui/toolbarMenubar/model/ToolbarModel.cpp:81
 msgid "Copy"
-msgstr ""
+msgstr "Copiază"
 
 #: ../src/control/pagetype/PageTypeHandler.cpp:28
 msgid "Copy current"
-msgstr ""
+msgstr "Copiază curent"
 
 #: ../src/undo/CopyUndoAction.cpp:60
 msgid "Copy page"
-msgstr ""
+msgstr "Copiază pagina"
 
 #: ../src/control/jobs/SaveJob.cpp:99
 msgid "Could not create backup! (The file was created from an older Xournal version)"
-msgstr ""
+msgstr "Nu s-a putut crea copia de rezervă! (Fişierul a fost creat cu o versiune Xournal mai veche)"
 
 #: ../src/util/Util.cpp:104
 msgid "Could not create folder: {1}"
-msgstr ""
+msgstr "Nu s-a putut crea un dosar nou {1}"
 
 #: ../src/control/LatexController.cpp:84
 msgid "Could not find kpsewhich in PATH; please install kpsewhich and put it on path."
-msgstr ""
+msgstr "Nu s-a putut găsi kpsewhich în PATH; vă rugăm să instalaţi kpsewhich și să îl puneţi în legătură."
 
 #: ../src/control/LatexController.cpp:69
 msgid "Could not find pdflatex in PATH.\n"
 "Please install pdflatex first and make sure it's in the PATH."
-msgstr ""
+msgstr "Nu s-a putut găsi pdflatex în PATH.\n"
+"Te rugăm să instalezi pdflatex mai întâi și să te asiguri că este în PATH."
 
 #: ../src/control/LatexController.cpp:88
 msgid "Could not find the LaTeX package 'standalone'.\n"
 "Please install standalone (found in texlive-latex-extra) and make sure it's accessible by your LaTeX installation."
-msgstr ""
+msgstr "Nu s-a putut găsi pachetul LaTeX „standalone”.\n"
+"Vă rugăm să instalați standalone (găsit în texlive-latex extra) și să vă asigurați că este accesibil prin instalarea LaTeX."
 
 #: ../src/control/LatexController.cpp:385
 msgid "Could not load LaTeX PDF file"
-msgstr ""
+msgstr "Nu s-a putut încărca fișierul LaTeX PDF"
 
 #: ../src/control/LatexController.cpp:370
 msgid "Could not load LaTeX PDF file, File Error: {1}"
-msgstr ""
+msgstr "Nu s-a putut încărca fișierul LaTeX PDF, Eroare fișier: {1}"
 
 #: ../src/control/LatexController.cpp:377
 msgid "Could not load LaTeX PDF file: {1}"
-msgstr ""
+msgstr "Nu s-a putut încărca fișierul LaTeX PDF:{1}"
 
 #: ../src/control/pagetype/PageTypeHandler.cpp:15
 msgid "Could not load pagetemplates.ini file"
-msgstr ""
+msgstr "Nu s-a putut încărca fișierul pagetemplates.ini"
 
 #: ../src/control/xojfile/LoadHandler.cpp:773
 msgid "Could not open attachment: {1}. Error message: Could not read file"
-msgstr ""
+msgstr "Atașamentul nu a putut fi deschis: {1}. Mesaj de eroare: Nu s-a putut citi fișierul"
 
 #: ../src/control/xojfile/LoadHandler.cpp:782
 msgid "Could not open attachment: {1}. Error message: Could not write file"
-msgstr ""
+msgstr "Atașamentul nu a putut fi deschis: {1}. Mesaj de eroare: Nu s-a putut scrie fișierul"
 
 #: ../src/control/xojfile/LoadHandler.cpp:754
 #: ../src/control/xojfile/LoadHandler.cpp:1004
 #: ../src/control/xojfile/LoadHandler.cpp:1023
 msgid "Could not open attachment: {1}. Error message: No valid file size provided"
-msgstr ""
+msgstr "Atașarea nu a putut fi deschisă: {1}. Mesaj de eroare: Nicio dimensiune validă a fișierului furnizată"
 
 #: ../src/control/xojfile/LoadHandler.cpp:745
 #: ../src/control/xojfile/LoadHandler.cpp:761
 #: ../src/control/xojfile/LoadHandler.cpp:996
 #: ../src/control/xojfile/LoadHandler.cpp:1011
 msgid "Could not open attachment: {1}. Error message: {2}"
-msgstr ""
+msgstr "Atașarea nu a putut fi deschisă: {1}. Mesaj de eroare: {2}"
 
 #: ../src/control/xojfile/LoadHandler.cpp:154
 msgid "Could not open file: \"{1}\""
@@ -457,129 +467,131 @@ msgstr ""
 
 #: ../src/control/Control.cpp:2019
 msgid "Error opening file \"{1}\""
-msgstr ""
+msgstr "Eroare de deschidere fişier \"{1}\""
 
 #: ../src/util/OutputStream.cpp:25
 msgid "Error opening file: \"{1}\""
-msgstr ""
+msgstr "Eroare de deschidere fişier \"{1}\""
 
 #: ../src/control/xojfile/LoadHandler.cpp:439
 #: ../src/control/xojfile/LoadHandler.cpp:460
 msgid "Error reading PDF: {1}"
-msgstr ""
+msgstr "Eroare la citirea PDF: {1}"
 
 #: ../src/control/xojfile/LoadHandler.cpp:506
 msgid "Error reading width of a stroke: {1}"
-msgstr ""
+msgstr "Eroare la citirea grosimii liniei: {1}"
 
 #: ../src/control/jobs/ImageExport.cpp:104
 msgid "Error save image #1"
-msgstr ""
+msgstr "Eroare la salvarea imaginii #1"
 
 #: ../src/control/jobs/ImageExport.cpp:119
 msgid "Error save image #2"
-msgstr ""
+msgstr "Eroare la salvarea imaginii #2"
 
 #: ../src/control/jobs/AutosaveJob.cpp:15
 msgid "Error while autosaving: {1}"
-msgstr ""
+msgstr "Eroare în timpul automatizării: {1}"
 
 #: ../src/util/Util.cpp:167
 msgid "Error {1} executing system command: {2}"
-msgstr ""
+msgstr "Eroare {1} executând comanda de sistem: {2}"
 
 #: ../src/util/CrashHandler.cpp:39
 msgid "Error: {1}"
-msgstr ""
+msgstr "Eroare: {1}"
 
 #: ../src/control/XournalMain.cpp:138
 msgid "Errorlog cannot be deleted. You have to do it manually.\n"
 "Logfile: {1}"
-msgstr ""
+msgstr "Eroarea nu poate fi ștearsă. Trebuie să o faceți manual.\n"
+"Jurnal: {1}"
 
 #: ../src/control/jobs/BaseExportJob.cpp:16
 msgid "Export PDF"
-msgstr ""
+msgstr "Exportă ca PDF"
 
 #: ../src/util/Util.cpp:123 ../src/util/Util.cpp:140
 msgid "File couldn't be opened. You have to do it manually:\n"
 "URL: {1}"
-msgstr ""
+msgstr "Fișierul nu a putut fi deschis. Trebuie să îl faceți manual:\n"
+"URL: {1}"
 
 #: ../src/control/Control.cpp:1963
 msgid "Filename: {1}"
-msgstr ""
+msgstr "Nume fișier: {1}"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:458
 msgid "Fill"
-msgstr ""
+msgstr "Umplere"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:472
 msgid "Fine"
-msgstr ""
+msgstr "Fin"
 
 #: ../src/gui/dialog/ButtonConfigGui.cpp:66
 msgid "Floating Toolbox (experimental)"
-msgstr ""
+msgstr "Instrumente plutitoare (experimental)"
 
 #: ../src/gui/toolbarMenubar/FontButton.cpp:54
 msgid "Font"
-msgstr ""
+msgstr "Fontul"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:433
 msgid "Forward"
-msgstr ""
+msgstr "Mergi înainte"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:364
 msgid "Go to first page"
-msgstr ""
+msgstr "Mergi la prima pagină"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:368
 msgid "Go to last page"
-msgstr ""
+msgstr "Du-te la ultima pagină"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:371
 msgid "Go to next layer"
-msgstr ""
+msgstr "Mergi la următorul nivel"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:366
 msgid "Go to page"
-msgstr ""
+msgstr "Du-te la pagina"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:370
 msgid "Go to previous layer"
-msgstr ""
+msgstr "Du-te la stratul anterior"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:372
 msgid "Go to top layer"
-msgstr ""
+msgstr "Mergi la stratul de sus"
 
 #: ../src/control/pagetype/PageTypeHandler.cpp:23
 msgid "Graph"
-msgstr ""
+msgstr "Grafic"
 
 #: ../src/gui/dialog/toolbarCustomize/CustomizeableColorList.cpp:15
 #: ../src/gui/toolbarMenubar/model/ToolbarColorNames.cpp:108
 msgid "Gray"
-msgstr ""
+msgstr "Gri"
 
 #: ../src/gui/dialog/toolbarCustomize/CustomizeableColorList.cpp:11
 #: ../src/gui/toolbarMenubar/model/ToolbarColorNames.cpp:104
 msgid "Green"
-msgstr ""
+msgstr "Verde"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:342
 msgid "Grid Snapping"
-msgstr ""
+msgstr "Ancorare la grilă"
 
 #: ../src/gui/dialog/ButtonConfigGui.cpp:65
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:419
 msgid "Hand"
-msgstr ""
+msgstr "Mână"
 
 #: ../src/gui/toolbarMenubar/ToolPageLayer.cpp:68
 msgid "Hide all"
-msgstr ""
+msgstr "Ascundeți toate"
 
 #: ../src/gui/dialog/ButtonConfigGui.cpp:59
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:396
