@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-04-10 01:30+0000\n"
-"PO-Revision-Date: 2020-04-12 09:38\n"
+"PO-Revision-Date: 2020-04-12 09:53\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Romanian\n"
 "Language: ro_RO\n"
@@ -596,123 +596,126 @@ msgstr "Ascundeți toate"
 #: ../src/gui/dialog/ButtonConfigGui.cpp:59
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:396
 msgid "Highlighter"
-msgstr ""
+msgstr "Evidenţiat"
 
 #: ../src/control/pagetype/PageTypeHandler.cpp:30
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:400
 msgid "Image"
-msgstr ""
+msgstr "Imagine"
 
 #: ../src/control/XournalMain.cpp:225
 msgid "Image file successfully created"
-msgstr ""
+msgstr "Fișier imagine creat cu succes"
 
 #: ../src/control/XournalMain.cpp:272
 msgid "Image output filename (.png / .svg)"
-msgstr ""
+msgstr "Numele fişierului de ieşire imagine (.png / .svg)"
 
 #: ../src/control/stockdlg/ImageOpenDlg.cpp:17
 msgid "Images"
-msgstr ""
+msgstr "Imagini"
 
 #: ../src/undo/InsertUndoAction.cpp:79
 msgid "Insert elements"
-msgstr ""
+msgstr "Inserează elemente"
 
 #: ../src/gui/dialog/ButtonConfigGui.cpp:61 ../src/undo/InsertUndoAction.cpp:34
 msgid "Insert image"
-msgstr ""
+msgstr "Inserare imagine"
 
 #: ../src/undo/InsertUndoAction.cpp:36
 msgid "Insert latex"
-msgstr ""
+msgstr "Inserează latex"
 
 #: ../src/undo/InsertLayerUndoAction.cpp:26
 msgid "Insert layer"
-msgstr ""
+msgstr "Inserează un strat"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:381
 msgid "Insert page"
-msgstr ""
+msgstr "Inserează pagină"
 
 #: ../src/control/XournalMain.cpp:273
 msgid "Jump to Page (first Page: 1)"
-msgstr ""
+msgstr "Salt la pagina (prima pagină: 1)"
 
 #: ../src/gui/toolbarMenubar/ToolPageLayer.cpp:246
 msgid "Layer"
-msgstr ""
+msgstr "Strat"
 
 #: ../src/gui/sidebar/previews/layer/SidebarPreviewLayers.cpp:56
 msgid "Layer Preview"
-msgstr ""
+msgstr "Previzualizare strat"
 
 #: ../src/gui/toolbarMenubar/ToolPageLayer.cpp:236
 msgid "Layer selection"
-msgstr ""
+msgstr "Selecție strat"
 
 #: ../src/gui/sidebar/previews/layer/SidebarPreviewLayerEntry.cpp:21
 #: ../src/gui/toolbarMenubar/ToolPageLayer.cpp:182
 #: ../src/gui/toolbarMenubar/ToolPageLayer.cpp:229
 msgid "Layer {1}"
-msgstr ""
+msgstr "Strat {1}"
 
 #: ../src/gui/dialog/toolbarCustomize/CustomizeableColorList.cpp:12
 #: ../src/gui/toolbarMenubar/model/ToolbarColorNames.cpp:105
 msgid "Light Blue"
-msgstr ""
+msgstr "Albastru deschis"
 
 #: ../src/gui/dialog/toolbarCustomize/CustomizeableColorList.cpp:13
 #: ../src/gui/toolbarMenubar/model/ToolbarColorNames.cpp:106
 msgid "Light Green"
-msgstr ""
+msgstr "Verde deschis"
 
 #: ../src/gui/PageView.cpp:687
 #: ../src/gui/sidebar/previews/base/SidebarPreviewBaseEntry.cpp:76
 #: ../src/gui/toolbarMenubar/ToolPageLayer.cpp:15
 msgid "Loading..."
-msgstr ""
+msgstr "Încărcare..."
 
 #: ../src/gui/dialog/toolbarCustomize/CustomizeableColorList.cpp:17
 #: ../src/gui/toolbarMenubar/model/ToolbarColorNames.cpp:110
 msgid "Magenta"
-msgstr ""
+msgstr "Magenta"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:353
 msgid "Manage Toolbars"
-msgstr ""
+msgstr "Gestionare bară cu instrumente"
 
 #: ../src/gui/dialog/ButtonConfigGui.cpp:83
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:473
 msgid "Medium"
-msgstr ""
+msgstr "Mediu"
 
 #: ../src/control/XournalMain.cpp:486
 msgid "Missing the needed UI file:\n"
 "{1}\n"
 " .app corrupted?\n"
 "Path: {2}"
-msgstr ""
+msgstr "Fișierul necesar pentru UI lipsă:\n"
+"{1}\n"
+" .app este corupt?\n"
+"Cale: {2}"
 
 #: ../src/undo/MoveUndoAction.cpp:17
 msgid "Move"
-msgstr ""
+msgstr "Mută"
 
 #: ../src/undo/MoveLayerUndoAction.cpp:27
 msgid "Move layer"
-msgstr ""
+msgstr "Mută stratul"
 
 #: ../src/undo/SwapUndoAction.cpp:63
 msgid "Move page downwards"
-msgstr ""
+msgstr "Mută pagina în jos"
 
 #: ../src/undo/SwapUndoAction.cpp:63
 msgid "Move page upwards"
-msgstr ""
+msgstr "Mută pagina în sus"
 
 #: ../src/gui/dialog/ToolbarManageDialog.cpp:70
 msgid "New"
-msgstr ""
+msgstr "Nou"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:317
 msgid "New Xournal"
@@ -929,59 +932,59 @@ msgstr ""
 
 #: ../src/control/pagetype/PageTypeHandler.cpp:20
 msgid "Ruled"
-msgstr ""
+msgstr "Liniat"
 
 #: ../src/control/pagetype/PageTypeHandler.cpp:21
 msgid "Ruled with vertical line"
-msgstr ""
+msgstr "Liniat cu linie verticală"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:409
 msgid "Ruler"
-msgstr ""
+msgstr "Riglă"
 
 #: ../src/control/jobs/CustomExportJob.cpp:24
 msgid "SVG graphics"
-msgstr ""
+msgstr "Grafică SVG"
 
 #: ../src/control/jobs/CustomExportJob.cpp:25
 msgid "SVG with transparent background"
-msgstr ""
+msgstr "SVG cu fundal transparent"
 
 #: ../src/control/Control.cpp:2441 ../src/control/jobs/SaveJob.cpp:13
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:319
 msgid "Save"
-msgstr ""
+msgstr "Salvează"
 
 #: ../src/control/Control.cpp:2441
 msgid "Save As..."
-msgstr ""
+msgstr "Salvează ca..."
 
 #: ../src/control/Control.cpp:2277 ../src/gui/dialog/PageTemplateDialog.cpp:83
 msgid "Save File"
-msgstr ""
+msgstr "Salvează fișierul"
 
 #: ../src/control/jobs/CustomExportJob.cpp:128
 #: ../src/control/jobs/SaveJob.cpp:112
 msgid "Save file error: {1}"
-msgstr ""
+msgstr "Eroare la salvarea fişierului: {1}"
 
 #: ../src/undo/ScaleUndoAction.cpp:52
 msgid "Scale"
-msgstr ""
+msgstr "Scală"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:334
 msgid "Search"
-msgstr ""
+msgstr "Căutare"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:421
 msgid "Select Font"
-msgstr ""
+msgstr "Selectează Fontul"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:416
 #: ../src/gui/toolbarMenubar/ToolSelectCombocontrol.cpp:19
 #: ../src/gui/toolbarMenubar/ToolSelectCombocontrol.cpp:66
 msgid "Select Object"
-msgstr ""
+msgstr "Selectează un obiect"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:414
 #: ../src/gui/toolbarMenubar/ToolSelectCombocontrol.cpp:14
@@ -989,160 +992,162 @@ msgstr ""
 #: ../src/gui/toolbarMenubar/ToolSelectCombocontrol.cpp:56
 #: ../src/gui/toolbarMenubar/ToolSelectCombocontrol.cpp:86
 msgid "Select Rectangle"
-msgstr ""
+msgstr "Selectaţi dreptunghiul"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:412
 #: ../src/gui/toolbarMenubar/ToolSelectCombocontrol.cpp:18
 #: ../src/gui/toolbarMenubar/ToolSelectCombocontrol.cpp:61
 msgid "Select Region"
-msgstr ""
+msgstr "Selectează regiunea"
 
 #: ../src/control/Control.cpp:1995
 msgid "Select another PDF"
-msgstr ""
+msgstr "Selectaţi un alt PDF"
 
 #: ../src/util/XojMsgBox.cpp:70
 msgid "Select another name"
-msgstr ""
+msgstr "Selectați un alt nume"
 
 #: ../src/gui/dialog/SelectBackgroundColorDialog.cpp:114
 msgid "Select background color"
-msgstr ""
+msgstr "Selectaţi culoarea de fundal"
 
 #: ../src/gui/toolbarMenubar/ColorToolItem.cpp:39
 #: ../src/gui/toolbarMenubar/ColorToolItem.cpp:91
 msgid "Select color"
-msgstr ""
+msgstr "Selectează culoarea"
 
 #: ../src/gui/dialog/ButtonConfigGui.cpp:64
 msgid "Select rectangle"
-msgstr ""
+msgstr "Selectaţi dreptunghiul"
 
 #: ../src/gui/dialog/ButtonConfigGui.cpp:63
 msgid "Select region"
-msgstr ""
+msgstr "Selectați regiunea"
 
 #: ../src/control/XournalMain.cpp:115
 msgid "Send Bugreport"
-msgstr ""
+msgstr "Trimite eroarea"
 
 #: ../src/gui/dialog/toolbarCustomize/ToolbarCustomizeDialog.cpp:50
 msgid "Separator"
-msgstr ""
+msgstr "Separator"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:403
 msgid "Shape Recognizer"
-msgstr ""
+msgstr "Recunoaștere Formă"
 
 #: ../src/gui/toolbarMenubar/ToolPageLayer.cpp:63
 msgid "Show all"
-msgstr ""
+msgstr "Afișare totală"
 
 #: ../src/gui/dialog/backgroundSelect/PdfPagesDialog.cpp:88
 msgid "Show only not used pages (one unused page)"
-msgstr ""
+msgstr "Arată doar paginile neutilizate (o pagină nefolosită)"
 
 #: ../src/gui/dialog/backgroundSelect/PdfPagesDialog.cpp:89
 msgid "Show only not used pages ({1} unused pages)"
-msgstr ""
+msgstr "Arată numai paginile nefolosite ({1} pagini nefolosite)"
 
 #: ../src/control/XournalMain.cpp:339
 msgid "Sorry, Xournal++ can only open one file at once.\n"
 "Others are ignored."
-msgstr ""
+msgstr "Ne pare rău, Xournal++ poate deschide doar un singur fișier simultan.\n"
+"Altele sunt ignorate."
 
 #: ../src/control/XournalMain.cpp:351
 msgid "Sorry, Xournal++ cannot open remote files at the moment.\n"
 "You have to copy the file to a local directory."
-msgstr ""
+msgstr "Ne pare rău, Xournal++ nu poate deschide fișiere la distanță momentan.\n"
+"Trebuie să copiați fișierul într-un director local."
 
 #: ../src/control/pagetype/PageTypeHandler.cpp:22
 msgid "Staves"
-msgstr ""
+msgstr "Portative"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:430
 msgid "Stop"
-msgstr ""
+msgstr "Stop"
 
 #: ../src/gui/dialog/ButtonConfigGui.cpp:105
 #: ../src/gui/toolbarMenubar/ToolDrawCombocontrol.cpp:35
 #: ../src/undo/RecognizerUndoAction.cpp:72
 msgid "Stroke recognizer"
-msgstr ""
+msgstr "Recunoaștere Formă"
 
 #: ../src/util/CrashHandler.cpp:41
 msgid "Successfully saved document to \"{1}\""
-msgstr ""
+msgstr "Document salvat cu succes în \"{1}\""
 
 #: ../src/control/stockdlg/XojOpenDlg.cpp:93
 msgid "Supported files"
-msgstr ""
+msgstr "Toate tipurile de fișiere suportate"
 
 #: ../src/gui/dialog/ButtonConfigGui.cpp:60
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:398
 msgid "Text"
-msgstr ""
+msgstr "Text"
 
 #: ../src/gui/SearchBar.cpp:67
 #, c-format
 msgid "Text %i times found on this page"
-msgstr ""
+msgstr "Text %i ori găsit pe această pagină"
 
 #: ../src/undo/TextUndoAction.cpp:29
 msgid "Text changes"
-msgstr ""
+msgstr "Modificări de text"
 
 #: ../src/gui/SearchBar.cpp:65
 msgid "Text found on this page"
-msgstr ""
+msgstr "Text ori găsit pe această pagină"
 
 #: ../src/gui/SearchBar.cpp:123 ../src/gui/SearchBar.cpp:167
 msgid "Text found once on page {1}"
-msgstr ""
+msgstr "Text găsit odată pe pagina {1}"
 
 #: ../src/gui/SearchBar.cpp:124 ../src/gui/SearchBar.cpp:168
 msgid "Text found {1} times on page {2}"
-msgstr ""
+msgstr "Text gasit de {1} ori pe pagina {2}"
 
 #: ../src/gui/SearchBar.cpp:72
 msgid "Text not found"
-msgstr ""
+msgstr "Text negăsit"
 
 #: ../src/gui/SearchBar.cpp:134 ../src/gui/SearchBar.cpp:178
 msgid "Text not found, searched on all pages"
-msgstr ""
+msgstr "Textul nu a fost găsit, căutat pe toate paginile"
 
 #: ../src/control/Control.cpp:1057
 msgid "The Toolbarconfiguration \"{1}\" is predefined, would you create a copy to edit?"
-msgstr ""
+msgstr "Configurarea barei de instrumente \"{1}\" este predefinită, ai crea o copie pentru a o edita?"
 
 #: ../src/control/Control.cpp:1992
 msgid "The attached background PDF could not be found."
-msgstr ""
+msgstr "Fundalul PDF atașat nu a putut fi găsit."
 
 #: ../src/control/Control.cpp:1993
 msgid "The background PDF could not be found."
-msgstr ""
+msgstr "Fundalul PDF atașat nu a putut fi găsit."
 
 #: ../src/control/xojfile/LoadHandler.cpp:115
 msgid "The file is no valid .xopp file (Mimetype missing): \"{1}\""
-msgstr ""
+msgstr "Fisierul nu este un fisier .xopp valid (Lipseste Mimetype): \"{1}\""
 
 #: ../src/control/xojfile/LoadHandler.cpp:122
 msgid "The file is no valid .xopp file (Mimetype wrong): \"{1}\""
-msgstr ""
+msgstr "Fisierul nu este un fisier .xopp valid (Lipseste Mimetype): \"{1}\""
 
 #: ../src/control/xojfile/LoadHandler.cpp:130
 msgid "The file is no valid .xopp file (Version missing): \"{1}\""
-msgstr ""
+msgstr "Fisierul nu este un fisier .xopp valid (Lipseste Mimetype): \"{1}\""
 
 #: ../src/control/xojfile/LoadHandler.cpp:143
 msgid "The file is not a valid .xopp file (Version string corrupted): \"{1}\""
-msgstr ""
+msgstr "Fișierul nu este un fișier .xopp valid (Șirul Versiunii este corupt): \"{1}\""
 
 #: ../src/control/LatexController.cpp:306
 msgid "The formula is empty when rendered or invalid."
-msgstr ""
+msgstr "Formula este goală la randare sau nevalidă."
 
 #: ../src/control/XournalMain.cpp:110
 msgid "The most recent log file name: {1}"
@@ -1358,162 +1363,162 @@ msgstr ""
 #: ../src/control/stockdlg/XojOpenDlg.cpp:11
 #: ../src/gui/dialog/PageTemplateDialog.cpp:84
 msgid "_Cancel"
-msgstr ""
+msgstr "Revocă"
 
 #: ../src/control/stockdlg/ImageOpenDlg.cpp:12
 #: ../src/control/stockdlg/XojOpenDlg.cpp:12
 msgid "_Open"
-msgstr ""
+msgstr "Deschide"
 
 #: ../src/control/Control.cpp:2278 ../src/control/jobs/BaseExportJob.cpp:17
 #: ../src/gui/dialog/PageTemplateDialog.cpp:84
 msgid "_Save"
-msgstr ""
+msgstr "Salvează"
 
 #: ../src/util/DeviceListHelper.cpp:96
 msgid "cursor"
-msgstr ""
+msgstr "Cursor"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:236
 msgid "dash-/ dotted"
-msgstr ""
+msgstr "punctat/punctat"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:233
 msgid "dashed"
-msgstr ""
+msgstr "Linie întreruptă"
 
 #: ../src/gui/dialog/PluginDialogEntry.cpp:28
 msgid "default disabled"
-msgstr ""
+msgstr "Implicit dezactivată"
 
 #: ../src/gui/dialog/PluginDialogEntry.cpp:28
 msgid "default enabled"
-msgstr ""
+msgstr "Implicit activat"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:251
 msgid "delete stroke"
-msgstr ""
+msgstr "şterge linie"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:239
 msgid "dotted"
-msgstr ""
+msgstr "Punctată"
 
 #: ../src/undo/AddUndoAction.cpp:86 ../src/undo/DeleteUndoAction.cpp:83
 msgid "elements"
-msgstr ""
+msgstr "elemente"
 
 #: ../src/util/DeviceListHelper.cpp:94
 msgid "eraser"
-msgstr ""
+msgstr "Radieră"
 
 #: ../src/undo/AddUndoAction.cpp:97 ../src/undo/DeleteUndoAction.cpp:94
 msgid "image"
-msgstr ""
+msgstr "imagine"
 
 #: ../src/util/DeviceListHelper.cpp:99
 msgid "keyboard"
-msgstr ""
+msgstr "tastatură"
 
 #: ../src/undo/AddUndoAction.cpp:100 ../src/undo/DeleteUndoAction.cpp:97
 msgid "latex"
-msgstr ""
+msgstr "latex"
 
 #: ../src/util/DeviceListHelper.cpp:90
 msgid "mouse"
-msgstr ""
+msgstr "mouse"
 
 #: ../src/control/LatexController.cpp:263
 msgid "pdflatex encountered an error: {1} (exit code: {2})"
-msgstr ""
+msgstr "pdflatex a întâmpinat o eroare: {1} (cod de ieșire: {2})"
 
 #: ../src/util/DeviceListHelper.cpp:92
 msgid "pen"
-msgstr ""
+msgstr "stilou"
 
 #: ../src/gui/toolbarMenubar/ToolPageLayer.cpp:153
 msgid "show"
-msgstr ""
+msgstr "arată"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:230
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:249
 msgid "standard"
-msgstr ""
+msgstr "Standard"
 
 #: ../src/undo/AddUndoAction.cpp:94 ../src/undo/DeleteUndoAction.cpp:91
 msgid "stroke"
-msgstr ""
+msgstr "Linii"
 
 #: ../src/util/DeviceListHelper.cpp:108
 msgid "tablet pad"
-msgstr ""
+msgstr "padul tabletei"
 
 #: ../src/undo/AddUndoAction.cpp:103 ../src/undo/DeleteUndoAction.cpp:100
 msgid "text"
-msgstr ""
+msgstr "text"
 
 #: ../src/util/DeviceListHelper.cpp:103
 msgid "touchpad"
-msgstr ""
+msgstr "touchpad"
 
 #: ../src/util/DeviceListHelper.cpp:101
 msgid "touchscreen"
-msgstr ""
+msgstr "touchscreen"
 
 #: ../src/util/DeviceListHelper.cpp:106
 msgid "trackpoint"
-msgstr ""
+msgstr "Punct pe traseu"
 
 #: ../src/gui/toolbarMenubar/ToolMenuHandler.cpp:250
 msgid "whiteout"
-msgstr ""
+msgstr "fără"
 
 #: ../src/control/xojfile/LoadHandler.cpp:905
 msgid "xoj-File: {1}"
-msgstr ""
+msgstr "Xoj-Fișier: {1}"
 
 #: ../src/xoj-preview-extractor/xournal-thumbnailer.cpp:71
 msgid "xoj-preview-extractor: call with INPUT.xoj OUTPUT.png"
-msgstr ""
+msgstr "xoj-preview-extractor: apelare cu INPUT.xoj OUTPUT.png"
 
 #: ../src/xoj-preview-extractor/xournal-thumbnailer.cpp:143
 msgid "xoj-preview-extractor: could not find icon \"{1}\""
-msgstr ""
+msgstr "xoj-preview-extractor: nu a putut găsi pictograma \"{1}\""
 
 #: ../src/xoj-preview-extractor/xournal-thumbnailer.cpp:92
 msgid "xoj-preview-extractor: file \"{1}\" contains no preview"
-msgstr ""
+msgstr "xoj-preview-extractor: fișierul \"{1}\" nu conține previzualizare"
 
 #: ../src/xoj-preview-extractor/xournal-thumbnailer.cpp:84
 msgid "xoj-preview-extractor: file \"{1}\" is not .xoj file"
-msgstr ""
+msgstr "xoj-preview-extractor: fișierul \"{1}\" nu conține previzualizare"
 
 #: ../src/xoj-preview-extractor/xournal-thumbnailer.cpp:97
 msgid "xoj-preview-extractor: no preview and page found, maybe an invalid file?"
-msgstr ""
+msgstr "xoj-preview-extractor: nici o previzualizare și pagină găsite, poate un fișier nevalid?"
 
 #: ../src/xoj-preview-extractor/xournal-thumbnailer.cpp:88
 msgid "xoj-preview-extractor: opening input file \"{1}\" failed"
-msgstr ""
+msgstr "xoj-preview-extractor: deschiderea fișierului de intrare \"{1}\" a eșuat"
 
 #: ../src/xoj-preview-extractor/xournal-thumbnailer.cpp:156
 msgid "xoj-preview-extractor: opening output file \"{1}\" failed"
-msgstr ""
+msgstr "xoj-preview-extractor: deschiderea fișierului de intrare \"{1}\" a eșuat"
 
 #: ../src/xoj-preview-extractor/xournal-thumbnailer.cpp:163
 msgid "xoj-preview-extractor: successfully extracted"
-msgstr ""
+msgstr "xoj-preview-extractor: extras cu succes"
 
 #: ../src/util/Util.cpp:96
 msgid "xournalpp-{1}"
-msgstr ""
+msgstr "xournalpp-{1}"
 
 #: ../ui/main.glade:31
 msgid " = Floating Toolbox (experimental) ="
-msgstr ""
+msgstr " = Instrumente plutitoare (experimental) ="
 
 #: ../ui/settings.glade:2635 ../ui/settings.glade:2646
 msgid "%"
-msgstr ""
+msgstr "%"
 
 #: ../ui/settings.glade:425
 msgid "%a\t\tAbbreviated weekday name (e.g. Thu)\n"
