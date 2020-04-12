@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: xournalpp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-04-10 01:30+0000\n"
-"PO-Revision-Date: 2020-04-12 09:53\n"
+"PO-Revision-Date: 2020-04-12 09:59\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Romanian\n"
 "Language: ro_RO\n"
@@ -1544,51 +1544,77 @@ msgid "%a\t\tAbbreviated weekday name (e.g. Thu)\n"
 "%Y\t\tYear (e.g. 2001)\n"
 "%Z\t\tTimezone name or abbreviation (e.g. CDT)\n"
 "%%\tA % sign"
-msgstr ""
+msgstr "%a\t\t Numele abreviat al zilei din săptămână (de ex. thu)\n"
+"%A\t\t Numele complet al săptămânii (de ex. Joi)\n"
+"%b\t\t Numele abreviat al lunii (de ex. august)\n"
+"%B\t\t Nume lună întreagă (e.. august)\n"
+"%c\t\t Data și ora reprezentării (de ex. Thu Aug 23 14:55:02 2001)\n"
+"%d\t\t Ziua lunii (01-31)\n"
+"%F\t\t Data (e.. 2001-08-23)\n"
+"%H\t\t Oră în format 24h (00-23)\n"
+"%I\t\t Ore în format 12h (01-12)\n"
+"%j\t\t Ziua anului (001-366)\n"
+"%m\t Luna cu un număr zecimal (01-12)\n"
+"%M\t Minute (00-59)\n"
+"%p\t\t AM sau PM (e.. PM)\n"
+"%S\t\t Al doilea (00-61)\n"
+"%U\t\t Numărul Săptămânii corespunzătoare primei duminici ca prima zi a săptămânii unu (00-53)\n"
+"%w\t\tWeek zi ca număr zecimal duminică, ca 0 (0-6)\n"
+"%W\t primul număr de luni fiind prima zi a săptămânii (00-53)\n"
+"%x\t\tData reprezentării (e.. 08/23/01)\n"
+"%X\t\tReprezentare timp (de ex. 14:55:02)\n"
+"%y\t\tAn, ultimele două cifre (00-99)\n"
+"%Y\t\tAn (e.. 2001)\n"
+"%Z\t\tNumele fusului orar sau abrevierea (ex. CDT)\n"
+"%%\t A % semn"
 
 #: ../ui/settings.glade:3360
 msgid "... AND How much time must have passed since last stroke.\n\n"
 "<i>Recommended: 500ms</i>"
-msgstr ""
+msgstr "... ȘI Cât timp trebuie să fi trecut de la ultima linie creată.\n\n"
+"<i>Recomandat: 500ms</i>"
 
 #: ../ui/settings.glade:3968
 msgid "1,00"
-msgstr ""
+msgstr "1,00"
 
 #: ../ui/images.glade:88
 msgid "<b>... or select already used Image:</b>"
-msgstr ""
+msgstr "<b>... sau selectați imaginea deja folosită:</b>"
 
 #: ../ui/pageTemplate.glade:256
 msgid "<b>Background Color</b>"
-msgstr ""
+msgstr "<b>Culoare de fundal</b>"
 
 #: ../ui/pageTemplate.glade:269
 msgid "<b>Background</b>"
-msgstr ""
+msgstr "<b>Fundal</b>"
 
 #: ../ui/toolbarCustomizeDialog.glade:141
 msgid "<b>Color</b>"
-msgstr ""
+msgstr "<b>Culoare</b>"
 
 #: ../ui/pageTemplate.glade:110
 msgid "<b>Configure Xournal++ Template Page</b>\n"
 "This settings will be used if you create a new document"
-msgstr ""
+msgstr "<b>Configurați Xournal++ Pagina de șabloane</b>\n"
+"Aceste setări vor fi utilizate dacă creați un nou document"
 
 #: ../ui/pageTemplate.glade:241 ../ui/pageTemplate.glade:282
 msgid "<b>Copy last page</b>\n"
 "Use the settings above\n"
 "for the fist Page"
-msgstr ""
+msgstr "<b>Copiază ultima pagină</b>\n"
+"Utilizează setările de mai sus\n"
+"pentru prima pagină"
 
 #: ../ui/toolbarCustomizeDialog.glade:86
 msgid "<b>Default Tools</b>"
-msgstr ""
+msgstr "<b>Instrumente implicite</b>"
 
 #: ../ui/settings.glade:3568
 msgid "<b>Default</b>"
-msgstr ""
+msgstr "<b>(Implicit)</b>"
 
 #: ../ui/exportSettings.glade:90
 msgid "<b>Document export settings</b>\n"
@@ -1800,55 +1826,55 @@ msgstr ""
 
 #: ../ui/main.glade:1134
 msgid "Configure Page Template"
-msgstr ""
+msgstr "Configuraţi pagina șablon"
 
 #: ../ui/pageTemplate.glade:185
 msgid "Copy last page settings"
-msgstr ""
+msgstr "Copiază setările ultimei pagini"
 
 #: ../ui/pageTemplate.glade:296
 msgid "Copy last page size"
-msgstr ""
+msgstr "Copiază dimensiunea ultimei pagini"
 
 #: ../ui/exportSettings.glade:158
 msgid "Current page"
-msgstr ""
+msgstr "Pagina Curentă"
 
 #: ../ui/settings.glade:2182
 msgid "Cursor"
-msgstr ""
+msgstr "Cursor"
 
 #: ../ui/settings.glade:1699
 msgid "Custom Commands (for Method \"Custom\")"
-msgstr ""
+msgstr "Comenzi personalizate (pentru metoda \"Personalizare\")"
 
 #: ../ui/settings.glade:2074
 msgid "Dark Theme (requires restart)"
-msgstr ""
+msgstr "Temă întunecată (necesită repornire)"
 
 #: ../ui/settings.glade:498
 msgid "Default Save Name"
-msgstr ""
+msgstr "Denumire prestabilită de fișier"
 
 #: ../ui/settings.glade:3955
 msgid "Default Seek Time (in seconds)"
-msgstr ""
+msgstr "Timpul implicit de căutare (în secunde)"
 
 #: ../ui/settings.glade:386
 msgid "Default name: "
-msgstr ""
+msgstr "Nume implicit: "
 
 #: ../ui/settings.glade:3608
 msgid "Defaults"
-msgstr ""
+msgstr "(Implicit)"
 
 #: ../ui/main.glade:1172
 msgid "Delete Layer"
-msgstr ""
+msgstr "Șterge strat"
 
 #: ../ui/settingsButtonConfig.glade:132
 msgid "Delete stroke"
-msgstr ""
+msgstr "Şterge linie"
 
 #: ../ui/main.glade:2136
 msgid "Delete this page"
